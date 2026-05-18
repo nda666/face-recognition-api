@@ -91,3 +91,19 @@ async def verify(image: UploadFile = File(...)):
     ]
 
     return JSONResponse({"ok": True, "matches": enriched})
+
+@router.delete("/delete-id")
+async def delete( id: str):
+    kode = id.strip()
+    if not kode:
+        return JSONResponse({"ok": False, "msg": "id wajib diisi"}, status_code=400)
+
+    deleted =  store.delete(kode)
+    if deleted <= 0:
+        return JSONResponse({"ok": False, "msg": "Data tidak ditemukan"}, status_code=404)
+
+    return JSONResponse({
+        "ok": True,
+        "msg": "ID berhasil dihapus",
+        "id": kode,
+    })
