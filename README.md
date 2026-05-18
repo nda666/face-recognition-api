@@ -2,8 +2,6 @@
 
 Project ini adalah layanan **verifikasi wajah** berbasis embedding menggunakan **DeepFace (ArcFace)**. Layanan dibuat dengan **FastAPI** dan menyimpan embedding ke **SQLite**.
 
-Selain endpoint verifikasi & pendaftaran (enroll), project juga menyediakan endpoint untuk mengambil data **pegawai** berdasarkan `id`.
-
 ---
 
 ## Fitur Utama
@@ -82,7 +80,7 @@ Untuk `enroll`:
 
 ## Endpoint API
 
-> Catatan: semua route di router face/misc/pegawai dilindungi dengan API key.
+> Catatan: semua route di router face/misc dilindungi dengan API key.
 
 ### Header autentikasi
 
