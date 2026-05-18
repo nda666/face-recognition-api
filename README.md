@@ -2,7 +2,7 @@
 
 Project ini adalah layanan **verifikasi wajah** berbasis embedding menggunakan **DeepFace (ArcFace)**. Layanan dibuat dengan **FastAPI** dan menyimpan embedding ke **SQLite**.
 
-Selain endpoint verifikasi & pendaftaran (enroll), project juga menyediakan endpoint untuk mengambil data **pegawai** berdasarkan `kode_pegawai` / `id`.
+Selain endpoint verifikasi & pendaftaran (enroll), project juga menyediakan endpoint untuk mengambil data **pegawai** berdasarkan `id`.
 
 ---
 
@@ -76,7 +76,7 @@ Untuk endpoint face:
 
 Untuk `enroll`:
 
-- `kode_pegawai` wajib diisi (string).
+- `id` wajib diisi (string).
 
 ---
 
@@ -94,7 +94,7 @@ Untuk `enroll`:
 
 Body (multipart/form-data):
 
-- `kode_pegawai` (string)
+- `id` (string)
 - `image` (file)
 
 Contoh (curl):
@@ -102,14 +102,14 @@ Contoh (curl):
 ```bash
 curl -X POST 'http://localhost:8000/enroll' \
   -H 'Authorization: Bearer YOUR_API_KEY' \
-  -F 'kode_pegawai=EMP001' \
+  -F 'id=EMP001' \
   -F 'image=@/path/foto.jpg'
 ```
 
 Output (contoh):
 
 - `ok: true`
-- `kode_pegawai`
+- `id`
 - `file` (id row / filename internal dari store)
 
 ---
