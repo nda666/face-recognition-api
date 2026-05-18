@@ -1,0 +1,38 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Build
+build/
+dist/
+wheels/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+.history/
+
+# ENV, Database & storage
+.env
+storage/
+!storage/.gitkeep
+
+# Samples
+samples/faces/
+
+# OS
+.DS_Store
+Thumbs.db

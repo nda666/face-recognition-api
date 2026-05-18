@@ -1,0 +1,4002 @@
+[
+  {
+    "kode": "1",
+    "nama": "Kamal Palastri"
+  },
+  {
+    "kode": "2",
+    "nama": "Artanto Saptono, S.Psi"
+  },
+  {
+    "kode": "3",
+    "nama": "Gina Maryadi"
+  },
+  {
+    "kode": "4",
+    "nama": "Puti Putri Kuswoyo"
+  },
+  {
+    "kode": "5",
+    "nama": "drg. Paiman Lailasari"
+  },
+  {
+    "kode": "6",
+    "nama": "Victoria Irawan"
+  },
+  {
+    "kode": "7",
+    "nama": "Radika Nasyidah"
+  },
+  {
+    "kode": "8",
+    "nama": "Ade Manullang"
+  },
+  {
+    "kode": "9",
+    "nama": "Uli Siregar"
+  },
+  {
+    "kode": "10",
+    "nama": "Mulyanto Ramadan, S.Pd"
+  },
+  {
+    "kode": "11",
+    "nama": "drg. Natalia Prakasa, S.Pt"
+  },
+  {
+    "kode": "12",
+    "nama": "Joko Wulandari"
+  },
+  {
+    "kode": "13",
+    "nama": "Yuliana Tamba"
+  },
+  {
+    "kode": "14",
+    "nama": "Jarwi Wastuti"
+  },
+  {
+    "kode": "15",
+    "nama": "Tri Nuraini, S.Ked"
+  },
+  {
+    "kode": "16",
+    "nama": "Lukita Gunarto"
+  },
+  {
+    "kode": "17",
+    "nama": "Ir. Eka Nababan"
+  },
+  {
+    "kode": "18",
+    "nama": "Radit Saptono, M.TI."
+  },
+  {
+    "kode": "19",
+    "nama": "Mariadi Namaga"
+  },
+  {
+    "kode": "20",
+    "nama": "Ajimin Dabukke, S.I.Kom"
+  },
+  {
+    "kode": "21",
+    "nama": "Eman Prasasta"
+  },
+  {
+    "kode": "22",
+    "nama": "Patricia Prasetyo"
+  },
+  {
+    "kode": "23",
+    "nama": "R. Zelaya Saefullah, S.Pt"
+  },
+  {
+    "kode": "24",
+    "nama": "Jaka Santoso"
+  },
+  {
+    "kode": "25",
+    "nama": "Dr. Ciaobella Hartati"
+  },
+  {
+    "kode": "26",
+    "nama": "Bambang Rajata"
+  },
+  {
+    "kode": "27",
+    "nama": "Wadi Anggriawan"
+  },
+  {
+    "kode": "28",
+    "nama": "Farah Melani"
+  },
+  {
+    "kode": "29",
+    "nama": "dr. Hani Rajata, S.IP"
+  },
+  {
+    "kode": "30",
+    "nama": "Hardi Safitri"
+  },
+  {
+    "kode": "31",
+    "nama": "Raina Wulandari"
+  },
+  {
+    "kode": "32",
+    "nama": "Salimah Nainggolan"
+  },
+  {
+    "kode": "33",
+    "nama": "Rika Puspita"
+  },
+  {
+    "kode": "34",
+    "nama": "Cinthia Rahayu, S.Farm"
+  },
+  {
+    "kode": "35",
+    "nama": "Kasusra Sitompul"
+  },
+  {
+    "kode": "36",
+    "nama": "Jasmin Habibi"
+  },
+  {
+    "kode": "37",
+    "nama": "Wirda Usamah"
+  },
+  {
+    "kode": "38",
+    "nama": "Ulya Mayasari"
+  },
+  {
+    "kode": "39",
+    "nama": "Queen Gunarto"
+  },
+  {
+    "kode": "40",
+    "nama": "Puti Rajata, S.I.Kom"
+  },
+  {
+    "kode": "41",
+    "nama": "Harja Mangunsong"
+  },
+  {
+    "kode": "42",
+    "nama": "Pranawa Utama"
+  },
+  {
+    "kode": "43",
+    "nama": "Bagus Sihombing"
+  },
+  {
+    "kode": "44",
+    "nama": "Laras Prasasta"
+  },
+  {
+    "kode": "45",
+    "nama": "Puti Umi Hastuti"
+  },
+  {
+    "kode": "46",
+    "nama": "Ir. Puput Gunarto, M.Pd"
+  },
+  {
+    "kode": "47",
+    "nama": "Maria Hidayat, M.Kom."
+  },
+  {
+    "kode": "48",
+    "nama": "Wisnu Lailasari, S.T."
+  },
+  {
+    "kode": "49",
+    "nama": "Jasmin Natsir"
+  },
+  {
+    "kode": "50",
+    "nama": "Qori Melani, S.E."
+  },
+  {
+    "kode": "51",
+    "nama": "Puti Zamira Saptono"
+  },
+  {
+    "kode": "52",
+    "nama": "Puti Vivi Kusmawati, M.M."
+  },
+  {
+    "kode": "53",
+    "nama": "Qori Prasetya, S.Psi"
+  },
+  {
+    "kode": "54",
+    "nama": "KH. Aditya Narpati, S.Psi"
+  },
+  {
+    "kode": "55",
+    "nama": "Cornelia Marbun"
+  },
+  {
+    "kode": "56",
+    "nama": "Argono Simbolon"
+  },
+  {
+    "kode": "57",
+    "nama": "Mutia Laksita"
+  },
+  {
+    "kode": "58",
+    "nama": "Tgk. Cici Mandasari"
+  },
+  {
+    "kode": "59",
+    "nama": "H. Liman Purwanti"
+  },
+  {
+    "kode": "60",
+    "nama": "Bancar Puspita"
+  },
+  {
+    "kode": "61",
+    "nama": "Tgk. Mutia Padmasari"
+  },
+  {
+    "kode": "62",
+    "nama": "Hartaka Hardiansyah"
+  },
+  {
+    "kode": "63",
+    "nama": "R. Kamidin Palastri"
+  },
+  {
+    "kode": "64",
+    "nama": "Kiandra Jailani, M.Kom."
+  },
+  {
+    "kode": "65",
+    "nama": "Lasmanto Andriani"
+  },
+  {
+    "kode": "66",
+    "nama": "Wahyu Andriani"
+  },
+  {
+    "kode": "67",
+    "nama": "Drs. Asmadi Kurniawan, S.I.Kom"
+  },
+  {
+    "kode": "68",
+    "nama": "Capa Nainggolan, M.Pd"
+  },
+  {
+    "kode": "69",
+    "nama": "Sutan Kasiran Maryadi"
+  },
+  {
+    "kode": "70",
+    "nama": "Pranawa Permata"
+  },
+  {
+    "kode": "71",
+    "nama": "R. Fathonah Simanjuntak"
+  },
+  {
+    "kode": "72",
+    "nama": "Dr. Azalea Usamah"
+  },
+  {
+    "kode": "73",
+    "nama": "Tgk. Indah Lazuardi, S.Sos"
+  },
+  {
+    "kode": "74",
+    "nama": "drg. Estiono Zulkarnain, M.Farm"
+  },
+  {
+    "kode": "75",
+    "nama": "Kenari Laksmiwati, S.E."
+  },
+  {
+    "kode": "76",
+    "nama": "Siti Haryanti"
+  },
+  {
+    "kode": "77",
+    "nama": "Kawaca Anggriawan"
+  },
+  {
+    "kode": "78",
+    "nama": "Maya Susanti"
+  },
+  {
+    "kode": "79",
+    "nama": "R. Ghani Samosir"
+  },
+  {
+    "kode": "80",
+    "nama": "Reksa Kurniawan"
+  },
+  {
+    "kode": "81",
+    "nama": "Calista Pratiwi"
+  },
+  {
+    "kode": "82",
+    "nama": "Hesti Rajasa, S.E."
+  },
+  {
+    "kode": "83",
+    "nama": "Drs. Shakila Sitorus, M.Kom."
+  },
+  {
+    "kode": "84",
+    "nama": "Raden Hutagalung"
+  },
+  {
+    "kode": "85",
+    "nama": "Naradi Sihotang"
+  },
+  {
+    "kode": "86",
+    "nama": "Enteng Handayani"
+  },
+  {
+    "kode": "87",
+    "nama": "Joko Yuniar"
+  },
+  {
+    "kode": "88",
+    "nama": "Maimunah Purnawati, M.Kom."
+  },
+  {
+    "kode": "89",
+    "nama": "Anita Nainggolan"
+  },
+  {
+    "kode": "90",
+    "nama": "Jefri Mayasari"
+  },
+  {
+    "kode": "91",
+    "nama": "Amalia Utami"
+  },
+  {
+    "kode": "92",
+    "nama": "Drs. Gawati Haryanti, S.E.I"
+  },
+  {
+    "kode": "93",
+    "nama": "Halima Hakim"
+  },
+  {
+    "kode": "94",
+    "nama": "Halim Prayoga"
+  },
+  {
+    "kode": "95",
+    "nama": "Zalindra Nasyiah"
+  },
+  {
+    "kode": "96",
+    "nama": "Queen Gunawan"
+  },
+  {
+    "kode": "97",
+    "nama": "Kiandra Hastuti"
+  },
+  {
+    "kode": "98",
+    "nama": "Paramita Hartati"
+  },
+  {
+    "kode": "99",
+    "nama": "Gilda Kuswandari"
+  },
+  {
+    "kode": "100",
+    "nama": "Syahrini Kusmawati"
+  },
+  {
+    "kode": "101",
+    "nama": "Tirtayasa Sihotang"
+  },
+  {
+    "kode": "102",
+    "nama": "Azalea Riyanti"
+  },
+  {
+    "kode": "103",
+    "nama": "Hasna Nainggolan"
+  },
+  {
+    "kode": "104",
+    "nama": "drg. Diana Situmorang, M.Kom."
+  },
+  {
+    "kode": "105",
+    "nama": "Mahfud Padmasari"
+  },
+  {
+    "kode": "106",
+    "nama": "Arsipatra Lailasari"
+  },
+  {
+    "kode": "107",
+    "nama": "Najam Waskita"
+  },
+  {
+    "kode": "108",
+    "nama": "Septi Laksmiwati, M.Kom."
+  },
+  {
+    "kode": "109",
+    "nama": "Raharja Mandala, S.Farm"
+  },
+  {
+    "kode": "110",
+    "nama": "Tira Nababan"
+  },
+  {
+    "kode": "111",
+    "nama": "T. Yusuf Wahyudin"
+  },
+  {
+    "kode": "112",
+    "nama": "Ade Pangestu, M.Pd"
+  },
+  {
+    "kode": "113",
+    "nama": "Janet Adriansyah"
+  },
+  {
+    "kode": "114",
+    "nama": "Hasan Januar"
+  },
+  {
+    "kode": "115",
+    "nama": "Dr. Zelda Nuraini"
+  },
+  {
+    "kode": "116",
+    "nama": "Heryanto Maheswara"
+  },
+  {
+    "kode": "117",
+    "nama": "Rahmi Yulianti"
+  },
+  {
+    "kode": "118",
+    "nama": "Alika Tarihoran"
+  },
+  {
+    "kode": "119",
+    "nama": "Tgk. Irfan Siregar"
+  },
+  {
+    "kode": "120",
+    "nama": "Luhung Hutapea"
+  },
+  {
+    "kode": "121",
+    "nama": "Warta Suartini"
+  },
+  {
+    "kode": "122",
+    "nama": "Jamalia Marpaung"
+  },
+  {
+    "kode": "123",
+    "nama": "Hadi Napitupulu"
+  },
+  {
+    "kode": "124",
+    "nama": "Tgk. Halima Aryani"
+  },
+  {
+    "kode": "125",
+    "nama": "Balamantri Dongoran"
+  },
+  {
+    "kode": "126",
+    "nama": "Harjo Budiyanto, S.E.I"
+  },
+  {
+    "kode": "127",
+    "nama": "Tasdik Mandasari"
+  },
+  {
+    "kode": "128",
+    "nama": "Ami Maheswara"
+  },
+  {
+    "kode": "129",
+    "nama": "Ian Hassanah"
+  },
+  {
+    "kode": "130",
+    "nama": "Kuncara Situmorang, S.H."
+  },
+  {
+    "kode": "131",
+    "nama": "Vera Natsir"
+  },
+  {
+    "kode": "132",
+    "nama": "Ir. Limar Mandasari, S.E."
+  },
+  {
+    "kode": "133",
+    "nama": "Ade Sinaga"
+  },
+  {
+    "kode": "134",
+    "nama": "Harsana Hakim"
+  },
+  {
+    "kode": "135",
+    "nama": "drg. Keisha Anggriawan, M.Kom."
+  },
+  {
+    "kode": "136",
+    "nama": "Respati Sihombing"
+  },
+  {
+    "kode": "137",
+    "nama": "drg. Johan Rajata"
+  },
+  {
+    "kode": "138",
+    "nama": "Raihan Hardiansyah"
+  },
+  {
+    "kode": "139",
+    "nama": "R. Nadia Lazuardi"
+  },
+  {
+    "kode": "140",
+    "nama": "Titin Lestari"
+  },
+  {
+    "kode": "141",
+    "nama": "Drs. Gilda Maryati"
+  },
+  {
+    "kode": "142",
+    "nama": "Naradi Fujiati, S.Kom"
+  },
+  {
+    "kode": "143",
+    "nama": "Luwes Prayoga"
+  },
+  {
+    "kode": "144",
+    "nama": "Qori Rajasa"
+  },
+  {
+    "kode": "145",
+    "nama": "Taufan Pudjiastuti"
+  },
+  {
+    "kode": "146",
+    "nama": "Ridwan Permata"
+  },
+  {
+    "kode": "147",
+    "nama": "Lalita Laksmiwati"
+  },
+  {
+    "kode": "148",
+    "nama": "Rahman Hassanah"
+  },
+  {
+    "kode": "149",
+    "nama": "Syahrini Kusumo, S.Gz"
+  },
+  {
+    "kode": "150",
+    "nama": "Ayu Kusmawati"
+  },
+  {
+    "kode": "151",
+    "nama": "Waluyo Tarihoran"
+  },
+  {
+    "kode": "152",
+    "nama": "Eka Pradana"
+  },
+  {
+    "kode": "153",
+    "nama": "R.M. Darijan Haryanto, M.M."
+  },
+  {
+    "kode": "154",
+    "nama": "Prabu Budiyanto"
+  },
+  {
+    "kode": "155",
+    "nama": "Zahra Sudiati"
+  },
+  {
+    "kode": "156",
+    "nama": "Cici Prasetyo"
+  },
+  {
+    "kode": "157",
+    "nama": "Anastasia Halim, S.Sos"
+  },
+  {
+    "kode": "158",
+    "nama": "Mursita Putra, M.Farm"
+  },
+  {
+    "kode": "159",
+    "nama": "Drs. Purwanto Wacana"
+  },
+  {
+    "kode": "160",
+    "nama": "Gamanto Sihombing"
+  },
+  {
+    "kode": "161",
+    "nama": "Elon Napitupulu"
+  },
+  {
+    "kode": "162",
+    "nama": "Cahyadi Hastuti"
+  },
+  {
+    "kode": "163",
+    "nama": "Melinda Halimah"
+  },
+  {
+    "kode": "164",
+    "nama": "Ganjaran Sirait"
+  },
+  {
+    "kode": "165",
+    "nama": "Dr. Cornelia Mansur, S.Kom"
+  },
+  {
+    "kode": "166",
+    "nama": "Hasta Gunarto"
+  },
+  {
+    "kode": "167",
+    "nama": "Wisnu Puspasari"
+  },
+  {
+    "kode": "168",
+    "nama": "Gatra Dabukke, M.Kom."
+  },
+  {
+    "kode": "169",
+    "nama": "Setya Hartati"
+  },
+  {
+    "kode": "170",
+    "nama": "Amalia Utama"
+  },
+  {
+    "kode": "171",
+    "nama": "R. Michelle Natsir, M.Kom."
+  },
+  {
+    "kode": "172",
+    "nama": "Wirda Saptono"
+  },
+  {
+    "kode": "173",
+    "nama": "Azalea Sirait"
+  },
+  {
+    "kode": "174",
+    "nama": "Aslijan Nababan"
+  },
+  {
+    "kode": "175",
+    "nama": "Yuni Lailasari"
+  },
+  {
+    "kode": "176",
+    "nama": "Lintang Winarno, S.Pt"
+  },
+  {
+    "kode": "177",
+    "nama": "Cut Nilam Halimah, M.Farm"
+  },
+  {
+    "kode": "178",
+    "nama": "Darmaji Januar"
+  },
+  {
+    "kode": "179",
+    "nama": "Rafid Riyanti"
+  },
+  {
+    "kode": "180",
+    "nama": "Puti Dian Mahendra, S.Gz"
+  },
+  {
+    "kode": "181",
+    "nama": "Patricia Dabukke, M.Kom."
+  },
+  {
+    "kode": "182",
+    "nama": "KH. Pangeran Wibisono, S.I.Kom"
+  },
+  {
+    "kode": "183",
+    "nama": "Carub Saragih, M.M."
+  },
+  {
+    "kode": "184",
+    "nama": "Yusuf Mardhiyah"
+  },
+  {
+    "kode": "185",
+    "nama": "Clara Anggriawan"
+  },
+  {
+    "kode": "186",
+    "nama": "Pardi Mangunsong"
+  },
+  {
+    "kode": "187",
+    "nama": "Heru Prasasta"
+  },
+  {
+    "kode": "188",
+    "nama": "dr. Calista Wahyudin, S.I.Kom"
+  },
+  {
+    "kode": "189",
+    "nama": "Jayeng Mandala"
+  },
+  {
+    "kode": "190",
+    "nama": "Atmaja Napitupulu"
+  },
+  {
+    "kode": "191",
+    "nama": "Adiarja Kusmawati"
+  },
+  {
+    "kode": "192",
+    "nama": "Eva Astuti, S.Gz"
+  },
+  {
+    "kode": "193",
+    "nama": "Prasetyo Utama, M.Ak"
+  },
+  {
+    "kode": "194",
+    "nama": "Maria Mahendra"
+  },
+  {
+    "kode": "195",
+    "nama": "Ir. Mulyanto Purwanti, S.Pd"
+  },
+  {
+    "kode": "196",
+    "nama": "Hj. Aisyah Usamah, M.M."
+  },
+  {
+    "kode": "197",
+    "nama": "Hani Puspita, S.Kom"
+  },
+  {
+    "kode": "198",
+    "nama": "Hardana Nainggolan, S.I.Kom"
+  },
+  {
+    "kode": "199",
+    "nama": "R. Mulya Habibi"
+  },
+  {
+    "kode": "200",
+    "nama": "Estiono Samosir, M.Pd"
+  },
+  {
+    "kode": "201",
+    "nama": "Nilam Nababan"
+  },
+  {
+    "kode": "202",
+    "nama": "Yoga Mustofa"
+  },
+  {
+    "kode": "203",
+    "nama": "Edi Saptono"
+  },
+  {
+    "kode": "204",
+    "nama": "R.A. Tira Laksmiwati"
+  },
+  {
+    "kode": "205",
+    "nama": "Pandu Sitompul"
+  },
+  {
+    "kode": "206",
+    "nama": "Bajragin Tampubolon"
+  },
+  {
+    "kode": "207",
+    "nama": "dr. Nova Nurdiyanti, S.I.Kom"
+  },
+  {
+    "kode": "208",
+    "nama": "dr. Belinda Megantara, S.I.Kom"
+  },
+  {
+    "kode": "209",
+    "nama": "Dalima Mayasari"
+  },
+  {
+    "kode": "210",
+    "nama": "Hasna Usamah"
+  },
+  {
+    "kode": "211",
+    "nama": "Purwanto Januar"
+  },
+  {
+    "kode": "212",
+    "nama": "Eja Sihombing"
+  },
+  {
+    "kode": "213",
+    "nama": "Drs. Karsana Lailasari, M.Kom."
+  },
+  {
+    "kode": "214",
+    "nama": "Uli Habibi"
+  },
+  {
+    "kode": "215",
+    "nama": "R.M. Mustika Waluyo"
+  },
+  {
+    "kode": "216",
+    "nama": "Drs. Violet Kuswandari"
+  },
+  {
+    "kode": "217",
+    "nama": "Yuliana Oktaviani"
+  },
+  {
+    "kode": "218",
+    "nama": "Sadina Nuraini"
+  },
+  {
+    "kode": "219",
+    "nama": "Mariadi Putra"
+  },
+  {
+    "kode": "220",
+    "nama": "R.M. Raden Nasyidah"
+  },
+  {
+    "kode": "221",
+    "nama": "Mulya Usada"
+  },
+  {
+    "kode": "222",
+    "nama": "Melinda Pertiwi"
+  },
+  {
+    "kode": "223",
+    "nama": "Rahmi Pradana"
+  },
+  {
+    "kode": "224",
+    "nama": "Galiono Hasanah, S.Kom"
+  },
+  {
+    "kode": "225",
+    "nama": "Dr. Aurora Widiastuti, S.E."
+  },
+  {
+    "kode": "226",
+    "nama": "drg. Prabawa Situmorang, S.Pd"
+  },
+  {
+    "kode": "227",
+    "nama": "Sutan Manah Pertiwi, S.Ked"
+  },
+  {
+    "kode": "228",
+    "nama": "dr. Ira Saptono, S.T."
+  },
+  {
+    "kode": "229",
+    "nama": "Dr. Kamila Utami, S.Kom"
+  },
+  {
+    "kode": "230",
+    "nama": "Juli Prasetyo"
+  },
+  {
+    "kode": "231",
+    "nama": "Dr. Jagaraga Purwanti, S.E.I"
+  },
+  {
+    "kode": "232",
+    "nama": "Hamima Widodo"
+  },
+  {
+    "kode": "233",
+    "nama": "R. Kayun Tampubolon, S.Psi"
+  },
+  {
+    "kode": "234",
+    "nama": "Hilda Suryatmi"
+  },
+  {
+    "kode": "235",
+    "nama": "Dt. Jasmani Dongoran, M.Pd"
+  },
+  {
+    "kode": "236",
+    "nama": "Natalia Permata"
+  },
+  {
+    "kode": "237",
+    "nama": "R.M. Jarwi Budiyanto"
+  },
+  {
+    "kode": "238",
+    "nama": "Cawuk Wijaya"
+  },
+  {
+    "kode": "239",
+    "nama": "drg. Unggul Astuti, M.M."
+  },
+  {
+    "kode": "240",
+    "nama": "Olga Zulaika"
+  },
+  {
+    "kode": "241",
+    "nama": "Sutan Aditya Hartati, S.E."
+  },
+  {
+    "kode": "242",
+    "nama": "Yessi Tarihoran"
+  },
+  {
+    "kode": "243",
+    "nama": "Cut Salimah Mulyani"
+  },
+  {
+    "kode": "244",
+    "nama": "Teguh Nainggolan"
+  },
+  {
+    "kode": "245",
+    "nama": "Rina Wahyuni"
+  },
+  {
+    "kode": "246",
+    "nama": "drg. Nurul Gunawan, S.Pt"
+  },
+  {
+    "kode": "247",
+    "nama": "Olivia Jailani"
+  },
+  {
+    "kode": "248",
+    "nama": "dr. Eluh Uyainah, S.Sos"
+  },
+  {
+    "kode": "249",
+    "nama": "Capa Hakim"
+  },
+  {
+    "kode": "250",
+    "nama": "Maria Kusumo"
+  },
+  {
+    "kode": "251",
+    "nama": "Daliman Pertiwi"
+  },
+  {
+    "kode": "252",
+    "nama": "Nova Sirait"
+  },
+  {
+    "kode": "253",
+    "nama": "Yessi Halimah"
+  },
+  {
+    "kode": "254",
+    "nama": "Zalindra Wijayanti"
+  },
+  {
+    "kode": "255",
+    "nama": "Dalimin Hastuti"
+  },
+  {
+    "kode": "256",
+    "nama": "Irma Farida"
+  },
+  {
+    "kode": "257",
+    "nama": "Kamaria Laksita"
+  },
+  {
+    "kode": "258",
+    "nama": "Intan Hidayat"
+  },
+  {
+    "kode": "259",
+    "nama": "Indah Mahendra"
+  },
+  {
+    "kode": "260",
+    "nama": "Nasab Siregar"
+  },
+  {
+    "kode": "261",
+    "nama": "Dalima Putra, S.I.Kom"
+  },
+  {
+    "kode": "262",
+    "nama": "Kezia Yuliarti"
+  },
+  {
+    "kode": "263",
+    "nama": "Farhunnisa Samosir"
+  },
+  {
+    "kode": "264",
+    "nama": "Purwanto Pangestu, M.TI."
+  },
+  {
+    "kode": "265",
+    "nama": "Eva Hardiansyah"
+  },
+  {
+    "kode": "266",
+    "nama": "Nadia Simbolon, M.M."
+  },
+  {
+    "kode": "267",
+    "nama": "Paramita Wijaya"
+  },
+  {
+    "kode": "268",
+    "nama": "Uda Budiman, S.T."
+  },
+  {
+    "kode": "269",
+    "nama": "Febi Kusumo"
+  },
+  {
+    "kode": "270",
+    "nama": "Upik Rahimah"
+  },
+  {
+    "kode": "271",
+    "nama": "Tomi Winarno"
+  },
+  {
+    "kode": "272",
+    "nama": "KH. Endra Usamah"
+  },
+  {
+    "kode": "273",
+    "nama": "Tiara Zulaika"
+  },
+  {
+    "kode": "274",
+    "nama": "Ibrani Najmudin, S.Sos"
+  },
+  {
+    "kode": "275",
+    "nama": "Virman Kuswoyo"
+  },
+  {
+    "kode": "276",
+    "nama": "Olivia Agustina"
+  },
+  {
+    "kode": "277",
+    "nama": "Cinta Lestari"
+  },
+  {
+    "kode": "278",
+    "nama": "Harjaya Nurdiyanti"
+  },
+  {
+    "kode": "279",
+    "nama": "Tania Mansur, M.M."
+  },
+  {
+    "kode": "280",
+    "nama": "Saiful Prayoga"
+  },
+  {
+    "kode": "281",
+    "nama": "Cinthia Saefullah, M.Kom."
+  },
+  {
+    "kode": "282",
+    "nama": "Paramita Wacana, S.Pd"
+  },
+  {
+    "kode": "283",
+    "nama": "Pia Dabukke"
+  },
+  {
+    "kode": "284",
+    "nama": "R.A. Yuliana Laksita, S.Pd"
+  },
+  {
+    "kode": "285",
+    "nama": "Drs. Bahuraksa Novitasari"
+  },
+  {
+    "kode": "286",
+    "nama": "Ir. Bahuraksa Suryatmi"
+  },
+  {
+    "kode": "287",
+    "nama": "Cengkir Laksita"
+  },
+  {
+    "kode": "288",
+    "nama": "Hj. Maya Dongoran"
+  },
+  {
+    "kode": "289",
+    "nama": "Karma Purwanti"
+  },
+  {
+    "kode": "290",
+    "nama": "Gaduh Prasetya"
+  },
+  {
+    "kode": "291",
+    "nama": "Maimunah Prabowo"
+  },
+  {
+    "kode": "292",
+    "nama": "R. Amelia Permata"
+  },
+  {
+    "kode": "293",
+    "nama": "Azalea Zulkarnain"
+  },
+  {
+    "kode": "294",
+    "nama": "dr. Wardi Wasita, S.Sos"
+  },
+  {
+    "kode": "295",
+    "nama": "Fitriani Widiastuti"
+  },
+  {
+    "kode": "296",
+    "nama": "KH. Balamantri Dongoran, S.I.Kom"
+  },
+  {
+    "kode": "297",
+    "nama": "Ghaliyati Firmansyah, S.Kom"
+  },
+  {
+    "kode": "298",
+    "nama": "R. Mitra Namaga"
+  },
+  {
+    "kode": "299",
+    "nama": "R.A. Dian Winarno"
+  },
+  {
+    "kode": "300",
+    "nama": "Genta Maulana"
+  },
+  {
+    "kode": "301",
+    "nama": "Tari Pratama"
+  },
+  {
+    "kode": "302",
+    "nama": "Ir. Lalita Astuti"
+  },
+  {
+    "kode": "303",
+    "nama": "Ir. Sadina Wahyuni"
+  },
+  {
+    "kode": "304",
+    "nama": "Hj. Yani Ramadan, S.I.Kom"
+  },
+  {
+    "kode": "305",
+    "nama": "Jumadi Tampubolon"
+  },
+  {
+    "kode": "306",
+    "nama": "Gandi Waskita"
+  },
+  {
+    "kode": "307",
+    "nama": "Yusuf Jailani, S.E."
+  },
+  {
+    "kode": "308",
+    "nama": "Tira Dongoran"
+  },
+  {
+    "kode": "309",
+    "nama": "Gadang Prasetya"
+  },
+  {
+    "kode": "310",
+    "nama": "Anggabaya Marpaung"
+  },
+  {
+    "kode": "311",
+    "nama": "Galang Nasyidah"
+  },
+  {
+    "kode": "312",
+    "nama": "Karma Kuswandari, M.Farm"
+  },
+  {
+    "kode": "313",
+    "nama": "Ir. Mitra Thamrin, M.TI."
+  },
+  {
+    "kode": "314",
+    "nama": "Tgk. Aurora Novitasari"
+  },
+  {
+    "kode": "315",
+    "nama": "Ira Nababan"
+  },
+  {
+    "kode": "316",
+    "nama": "Bagiya Padmasari"
+  },
+  {
+    "kode": "317",
+    "nama": "Carla Samosir"
+  },
+  {
+    "kode": "318",
+    "nama": "Cut Laras Fujiati"
+  },
+  {
+    "kode": "319",
+    "nama": "Kawaya Wastuti, S.I.Kom"
+  },
+  {
+    "kode": "320",
+    "nama": "Jabal Agustina"
+  },
+  {
+    "kode": "321",
+    "nama": "Citra Prastuti, S.Pd"
+  },
+  {
+    "kode": "322",
+    "nama": "Kambali Nashiruddin"
+  },
+  {
+    "kode": "323",
+    "nama": "Irwan Suryatmi"
+  },
+  {
+    "kode": "324",
+    "nama": "Paris Samosir"
+  },
+  {
+    "kode": "325",
+    "nama": "Lega Yolanda"
+  },
+  {
+    "kode": "326",
+    "nama": "Saiful Prastuti"
+  },
+  {
+    "kode": "327",
+    "nama": "Harjasa Hutapea"
+  },
+  {
+    "kode": "328",
+    "nama": "KH. Bakianto Latupono, S.I.Kom"
+  },
+  {
+    "kode": "329",
+    "nama": "Ana Simanjuntak, S.Pt"
+  },
+  {
+    "kode": "330",
+    "nama": "Yulia Tampubolon"
+  },
+  {
+    "kode": "331",
+    "nama": "Cut Tari Hariyah, S.Kom"
+  },
+  {
+    "kode": "332",
+    "nama": "Rahman Sitompul"
+  },
+  {
+    "kode": "333",
+    "nama": "Hilda Astuti"
+  },
+  {
+    "kode": "334",
+    "nama": "Cut Jane Nuraini"
+  },
+  {
+    "kode": "335",
+    "nama": "Intan Palastri, S.Farm"
+  },
+  {
+    "kode": "336",
+    "nama": "Laras Nuraini"
+  },
+  {
+    "kode": "337",
+    "nama": "Yessi Rajasa"
+  },
+  {
+    "kode": "338",
+    "nama": "R. Fathonah Maryadi, S.H."
+  },
+  {
+    "kode": "339",
+    "nama": "T. Vero Widodo, S.Kom"
+  },
+  {
+    "kode": "340",
+    "nama": "Argono Prasetyo"
+  },
+  {
+    "kode": "341",
+    "nama": "R.A. Ika Setiawan"
+  },
+  {
+    "kode": "342",
+    "nama": "Sabar Maryadi"
+  },
+  {
+    "kode": "343",
+    "nama": "Karta Hutagalung"
+  },
+  {
+    "kode": "344",
+    "nama": "R. Salimah Rahimah, M.Farm"
+  },
+  {
+    "kode": "345",
+    "nama": "Tgk. Dadap Hastuti"
+  },
+  {
+    "kode": "346",
+    "nama": "Bakijan Uwais"
+  },
+  {
+    "kode": "347",
+    "nama": "R. Janet Handayani, S.T."
+  },
+  {
+    "kode": "348",
+    "nama": "Dr. Gaduh Hidayat, S.Farm"
+  },
+  {
+    "kode": "349",
+    "nama": "Kasiran Siregar"
+  },
+  {
+    "kode": "350",
+    "nama": "Ghaliyati Wahyuni"
+  },
+  {
+    "kode": "351",
+    "nama": "Patricia Wahyuni"
+  },
+  {
+    "kode": "352",
+    "nama": "Luwar Farida"
+  },
+  {
+    "kode": "353",
+    "nama": "Gangsar Fujiati"
+  },
+  {
+    "kode": "354",
+    "nama": "Sutan Lukman Hakim"
+  },
+  {
+    "kode": "355",
+    "nama": "Heryanto Lestari, S.I.Kom"
+  },
+  {
+    "kode": "356",
+    "nama": "Ajeng Susanti"
+  },
+  {
+    "kode": "357",
+    "nama": "Kamaria Gunawan"
+  },
+  {
+    "kode": "358",
+    "nama": "Elon Firmansyah"
+  },
+  {
+    "kode": "359",
+    "nama": "T. Pardi Rahimah"
+  },
+  {
+    "kode": "360",
+    "nama": "Betania Wibisono, S.Kom"
+  },
+  {
+    "kode": "361",
+    "nama": "Hj. Lalita Pranowo"
+  },
+  {
+    "kode": "362",
+    "nama": "Raden Mangunsong"
+  },
+  {
+    "kode": "363",
+    "nama": "Prayitna Nurdiyanti"
+  },
+  {
+    "kode": "364",
+    "nama": "Pia Ardianto"
+  },
+  {
+    "kode": "365",
+    "nama": "Manah Melani"
+  },
+  {
+    "kode": "366",
+    "nama": "H. Najib Wibowo, S.Pd"
+  },
+  {
+    "kode": "367",
+    "nama": "Drs. Anastasia Maulana, S.Gz"
+  },
+  {
+    "kode": "368",
+    "nama": "Fitria Nababan, S.T."
+  },
+  {
+    "kode": "369",
+    "nama": "Sadina Sitompul, M.Pd"
+  },
+  {
+    "kode": "370",
+    "nama": "Samsul Hidayanto"
+  },
+  {
+    "kode": "371",
+    "nama": "Dr. Rini Hakim"
+  },
+  {
+    "kode": "372",
+    "nama": "Cut Calista Mandala, S.E.I"
+  },
+  {
+    "kode": "373",
+    "nama": "Yuliana Sudiati"
+  },
+  {
+    "kode": "374",
+    "nama": "Perkasa Permadi, S.Gz"
+  },
+  {
+    "kode": "375",
+    "nama": "R.A. Vivi Salahudin, S.Sos"
+  },
+  {
+    "kode": "376",
+    "nama": "Cecep Hastuti"
+  },
+  {
+    "kode": "377",
+    "nama": "Rahman Damanik, M.M."
+  },
+  {
+    "kode": "378",
+    "nama": "Anom Halim"
+  },
+  {
+    "kode": "379",
+    "nama": "drg. Dalimin Wacana"
+  },
+  {
+    "kode": "380",
+    "nama": "Bagiya Tarihoran"
+  },
+  {
+    "kode": "381",
+    "nama": "Tira Pradana"
+  },
+  {
+    "kode": "382",
+    "nama": "Cornelia Prasetyo"
+  },
+  {
+    "kode": "383",
+    "nama": "Zamira Wijayanti, S.Pd"
+  },
+  {
+    "kode": "384",
+    "nama": "R. Kiandra Dongoran, S.I.Kom"
+  },
+  {
+    "kode": "385",
+    "nama": "dr. Gilda Anggriawan"
+  },
+  {
+    "kode": "386",
+    "nama": "Harjaya Usada"
+  },
+  {
+    "kode": "387",
+    "nama": "Pandu Nurdiyanti"
+  },
+  {
+    "kode": "388",
+    "nama": "Darmanto Puspasari"
+  },
+  {
+    "kode": "389",
+    "nama": "Vanya Latupono"
+  },
+  {
+    "kode": "390",
+    "nama": "dr. Wardi Kusumo"
+  },
+  {
+    "kode": "391",
+    "nama": "Eli Dabukke"
+  },
+  {
+    "kode": "392",
+    "nama": "Ir. Kiandra Uyainah"
+  },
+  {
+    "kode": "393",
+    "nama": "dr. Daryani Waskita"
+  },
+  {
+    "kode": "394",
+    "nama": "Luthfi Anggriawan, S.Psi"
+  },
+  {
+    "kode": "395",
+    "nama": "Puti Olivia Pangestu, S.E.I"
+  },
+  {
+    "kode": "396",
+    "nama": "Banara Latupono"
+  },
+  {
+    "kode": "397",
+    "nama": "Janet Hasanah"
+  },
+  {
+    "kode": "398",
+    "nama": "drg. Ulya Manullang, S.Pd"
+  },
+  {
+    "kode": "399",
+    "nama": "Gangsar Yuliarti, M.Ak"
+  },
+  {
+    "kode": "400",
+    "nama": "Eko Purwanti"
+  },
+  {
+    "kode": "401",
+    "nama": "Cut Febi Pradana, S.Sos"
+  },
+  {
+    "kode": "402",
+    "nama": "Sutan Kardi Pranowo, S.Pt"
+  },
+  {
+    "kode": "403",
+    "nama": "Dimaz Palastri"
+  },
+  {
+    "kode": "404",
+    "nama": "KH. Dagel Maulana, S.T."
+  },
+  {
+    "kode": "405",
+    "nama": "Rahmat Uwais"
+  },
+  {
+    "kode": "406",
+    "nama": "Cengkir Lazuardi"
+  },
+  {
+    "kode": "407",
+    "nama": "Cut Maria Lailasari, S.E."
+  },
+  {
+    "kode": "408",
+    "nama": "KH. Karna Samosir"
+  },
+  {
+    "kode": "409",
+    "nama": "Kayun Wulandari, M.Kom."
+  },
+  {
+    "kode": "410",
+    "nama": "Drs. Rachel Novitasari"
+  },
+  {
+    "kode": "411",
+    "nama": "Padmi Samosir"
+  },
+  {
+    "kode": "412",
+    "nama": "Jamalia Nuraini"
+  },
+  {
+    "kode": "413",
+    "nama": "Cahyadi Tarihoran"
+  },
+  {
+    "kode": "414",
+    "nama": "Yusuf Ramadan"
+  },
+  {
+    "kode": "415",
+    "nama": "KH. Sabri Saputra, S.T."
+  },
+  {
+    "kode": "416",
+    "nama": "R.M. Kawaca Sirait"
+  },
+  {
+    "kode": "417",
+    "nama": "Rini Rahimah"
+  },
+  {
+    "kode": "418",
+    "nama": "Gada Pradana"
+  },
+  {
+    "kode": "419",
+    "nama": "Calista Thamrin"
+  },
+  {
+    "kode": "420",
+    "nama": "H. Cawuk Sihombing"
+  },
+  {
+    "kode": "421",
+    "nama": "Ifa Kusumo"
+  },
+  {
+    "kode": "422",
+    "nama": "Tgk. Nadia Pratiwi, S.H."
+  },
+  {
+    "kode": "423",
+    "nama": "Ibrani Permadi"
+  },
+  {
+    "kode": "424",
+    "nama": "Titin Novitasari"
+  },
+  {
+    "kode": "425",
+    "nama": "Novi Irawan, S.H."
+  },
+  {
+    "kode": "426",
+    "nama": "Hasim Mulyani, M.M."
+  },
+  {
+    "kode": "427",
+    "nama": "Tirtayasa Wacana"
+  },
+  {
+    "kode": "428",
+    "nama": "drg. Laila Waskita, M.Farm"
+  },
+  {
+    "kode": "429",
+    "nama": "dr. Dono Permata, S.Farm"
+  },
+  {
+    "kode": "430",
+    "nama": "drg. Chelsea Saragih, S.Psi"
+  },
+  {
+    "kode": "431",
+    "nama": "Belinda Riyanti"
+  },
+  {
+    "kode": "432",
+    "nama": "Kiandra Haryanti"
+  },
+  {
+    "kode": "433",
+    "nama": "Kartika Pranowo"
+  },
+  {
+    "kode": "434",
+    "nama": "Novi Dabukke"
+  },
+  {
+    "kode": "435",
+    "nama": "Wani Hastuti"
+  },
+  {
+    "kode": "436",
+    "nama": "Ani Kurniawan"
+  },
+  {
+    "kode": "437",
+    "nama": "Daniswara Damanik"
+  },
+  {
+    "kode": "438",
+    "nama": "Kemba Nasyidah"
+  },
+  {
+    "kode": "439",
+    "nama": "Kalim Pradana"
+  },
+  {
+    "kode": "440",
+    "nama": "Martana Latupono"
+  },
+  {
+    "kode": "441",
+    "nama": "Tedi Waluyo"
+  },
+  {
+    "kode": "442",
+    "nama": "Ir. Kayla Prakasa, S.IP"
+  },
+  {
+    "kode": "443",
+    "nama": "Eka Hutagalung"
+  },
+  {
+    "kode": "444",
+    "nama": "Gawati Saputra"
+  },
+  {
+    "kode": "445",
+    "nama": "Hj. Wirda Hariyah, S.Psi"
+  },
+  {
+    "kode": "446",
+    "nama": "drg. Halima Fujiati"
+  },
+  {
+    "kode": "447",
+    "nama": "Sutan Cengkir Tamba, S.IP"
+  },
+  {
+    "kode": "448",
+    "nama": "Digdaya Hartati"
+  },
+  {
+    "kode": "449",
+    "nama": "Hana Usamah, M.Pd"
+  },
+  {
+    "kode": "450",
+    "nama": "Wage Uyainah"
+  },
+  {
+    "kode": "451",
+    "nama": "H. Opung Maryadi"
+  },
+  {
+    "kode": "452",
+    "nama": "Almira Namaga"
+  },
+  {
+    "kode": "453",
+    "nama": "Naradi Susanti"
+  },
+  {
+    "kode": "454",
+    "nama": "Oliva Andriani"
+  },
+  {
+    "kode": "455",
+    "nama": "Kiandra Zulaika"
+  },
+  {
+    "kode": "456",
+    "nama": "Dt. Mahdi Mandala, S.Pt"
+  },
+  {
+    "kode": "457",
+    "nama": "Ir. Bagus Pangestu, S.I.Kom"
+  },
+  {
+    "kode": "458",
+    "nama": "Banawi Napitupulu"
+  },
+  {
+    "kode": "459",
+    "nama": "Warji Hidayanto"
+  },
+  {
+    "kode": "460",
+    "nama": "Salwa Narpati"
+  },
+  {
+    "kode": "461",
+    "nama": "Yuni Iswahyudi"
+  },
+  {
+    "kode": "462",
+    "nama": "Warsita Prayoga"
+  },
+  {
+    "kode": "463",
+    "nama": "Kamaria Hidayanto, M.Farm"
+  },
+  {
+    "kode": "464",
+    "nama": "Rahmat Rahimah"
+  },
+  {
+    "kode": "465",
+    "nama": "Sabrina Prakasa"
+  },
+  {
+    "kode": "466",
+    "nama": "Jarwadi Riyanti"
+  },
+  {
+    "kode": "467",
+    "nama": "Jumadi Rajasa"
+  },
+  {
+    "kode": "468",
+    "nama": "Violet Nasyidah"
+  },
+  {
+    "kode": "469",
+    "nama": "Ayu Melani"
+  },
+  {
+    "kode": "470",
+    "nama": "Sarah Najmudin, S.Psi"
+  },
+  {
+    "kode": "471",
+    "nama": "Gandi Hutasoit"
+  },
+  {
+    "kode": "472",
+    "nama": "Kenzie Mandala"
+  },
+  {
+    "kode": "473",
+    "nama": "R.M. Karya Astuti, S.E.I"
+  },
+  {
+    "kode": "474",
+    "nama": "Sidiq Nasyiah"
+  },
+  {
+    "kode": "475",
+    "nama": "Gamani Mandasari"
+  },
+  {
+    "kode": "476",
+    "nama": "Nova Sudiati"
+  },
+  {
+    "kode": "477",
+    "nama": "Rahmi Simbolon"
+  },
+  {
+    "kode": "478",
+    "nama": "Drs. Silvia Halimah, S.Gz"
+  },
+  {
+    "kode": "479",
+    "nama": "Mila Prayoga"
+  },
+  {
+    "kode": "480",
+    "nama": "Widya Sitompul"
+  },
+  {
+    "kode": "481",
+    "nama": "Kasiyah Putra"
+  },
+  {
+    "kode": "482",
+    "nama": "Malika Prasasta, S.Pt"
+  },
+  {
+    "kode": "483",
+    "nama": "Sutan Argono Prayoga, S.Psi"
+  },
+  {
+    "kode": "484",
+    "nama": "Diana Sudiati, S.Gz"
+  },
+  {
+    "kode": "485",
+    "nama": "Cemeti Ramadan"
+  },
+  {
+    "kode": "486",
+    "nama": "Dr. Vivi Manullang, M.TI."
+  },
+  {
+    "kode": "487",
+    "nama": "T. Martani Maulana, S.Kom"
+  },
+  {
+    "kode": "488",
+    "nama": "Rusman Anggraini"
+  },
+  {
+    "kode": "489",
+    "nama": "Padmi Salahudin"
+  },
+  {
+    "kode": "490",
+    "nama": "Titi Namaga, S.E.I"
+  },
+  {
+    "kode": "491",
+    "nama": "Mujur Hassanah"
+  },
+  {
+    "kode": "492",
+    "nama": "Puti Anita Kusmawati, S.H."
+  },
+  {
+    "kode": "493",
+    "nama": "Cinthia Nainggolan, S.Kom"
+  },
+  {
+    "kode": "494",
+    "nama": "KH. Marsito Anggriawan, M.Ak"
+  },
+  {
+    "kode": "495",
+    "nama": "Koko Utama"
+  },
+  {
+    "kode": "496",
+    "nama": "Gilda Waskita"
+  },
+  {
+    "kode": "497",
+    "nama": "Puti Victoria Lazuardi"
+  },
+  {
+    "kode": "498",
+    "nama": "Karsa Puspasari, M.Kom."
+  },
+  {
+    "kode": "499",
+    "nama": "drg. Jessica Zulkarnain, S.IP"
+  },
+  {
+    "kode": "500",
+    "nama": "Azalea Pradana"
+  },
+  {
+    "kode": "501",
+    "nama": "R. Malika Mansur"
+  },
+  {
+    "kode": "502",
+    "nama": "Mila Kurniawan, S.Pd"
+  },
+  {
+    "kode": "503",
+    "nama": "Drs. Cemeti Prastuti"
+  },
+  {
+    "kode": "504",
+    "nama": "H. Eja Firgantoro, M.Farm"
+  },
+  {
+    "kode": "505",
+    "nama": "Drs. Cinthia Mulyani"
+  },
+  {
+    "kode": "506",
+    "nama": "Cinthia Handayani"
+  },
+  {
+    "kode": "507",
+    "nama": "Novi Tampubolon, S.E.I"
+  },
+  {
+    "kode": "508",
+    "nama": "Jagapati Nashiruddin"
+  },
+  {
+    "kode": "509",
+    "nama": "Pandu Haryanto, M.Ak"
+  },
+  {
+    "kode": "510",
+    "nama": "Emong Permadi"
+  },
+  {
+    "kode": "511",
+    "nama": "Keisha Prastuti, S.Pt"
+  },
+  {
+    "kode": "512",
+    "nama": "Gasti Oktaviani"
+  },
+  {
+    "kode": "513",
+    "nama": "Maras Haryanto"
+  },
+  {
+    "kode": "514",
+    "nama": "Lukman Permata"
+  },
+  {
+    "kode": "515",
+    "nama": "Hj. Maimunah Permadi"
+  },
+  {
+    "kode": "516",
+    "nama": "Zahra Wibowo, S.E.I"
+  },
+  {
+    "kode": "517",
+    "nama": "Drs. Garan Purnawati"
+  },
+  {
+    "kode": "518",
+    "nama": "dr. Ika Mangunsong"
+  },
+  {
+    "kode": "519",
+    "nama": "Karsa Simanjuntak"
+  },
+  {
+    "kode": "520",
+    "nama": "Koko Usada, S.Kom"
+  },
+  {
+    "kode": "521",
+    "nama": "Jarwi Usada"
+  },
+  {
+    "kode": "522",
+    "nama": "Erik Wulandari, S.Sos"
+  },
+  {
+    "kode": "523",
+    "nama": "Febi Hutagalung"
+  },
+  {
+    "kode": "524",
+    "nama": "Tasnim Nugroho, S.Ked"
+  },
+  {
+    "kode": "525",
+    "nama": "Dr. Kania Rajata"
+  },
+  {
+    "kode": "526",
+    "nama": "Puti Yani Manullang"
+  },
+  {
+    "kode": "527",
+    "nama": "Rahmi Irawan, S.Farm"
+  },
+  {
+    "kode": "528",
+    "nama": "Putri Ramadan"
+  },
+  {
+    "kode": "529",
+    "nama": "Imam Natsir"
+  },
+  {
+    "kode": "530",
+    "nama": "Dt. Usman Jailani, S.E."
+  },
+  {
+    "kode": "531",
+    "nama": "Hj. Yessi Kurniawan"
+  },
+  {
+    "kode": "532",
+    "nama": "Dr. Ifa Laksmiwati"
+  },
+  {
+    "kode": "533",
+    "nama": "Tri Mahendra"
+  },
+  {
+    "kode": "534",
+    "nama": "Kunthara Prayoga"
+  },
+  {
+    "kode": "535",
+    "nama": "Dt. Jais Nurdiyanti, S.E."
+  },
+  {
+    "kode": "536",
+    "nama": "dr. Zizi Palastri"
+  },
+  {
+    "kode": "537",
+    "nama": "Adiarja Samosir"
+  },
+  {
+    "kode": "538",
+    "nama": "Drs. Galih Melani, S.Sos"
+  },
+  {
+    "kode": "539",
+    "nama": "Uli Firgantoro"
+  },
+  {
+    "kode": "540",
+    "nama": "Marwata Wibisono"
+  },
+  {
+    "kode": "541",
+    "nama": "Tiara Siregar, M.M."
+  },
+  {
+    "kode": "542",
+    "nama": "Dt. Cemani Situmorang"
+  },
+  {
+    "kode": "543",
+    "nama": "Ir. Karimah Halim, S.Pt"
+  },
+  {
+    "kode": "544",
+    "nama": "Alika Samosir"
+  },
+  {
+    "kode": "545",
+    "nama": "Galuh Siregar"
+  },
+  {
+    "kode": "546",
+    "nama": "Bakijan Dongoran"
+  },
+  {
+    "kode": "547",
+    "nama": "Dimaz Waluyo, S.T."
+  },
+  {
+    "kode": "548",
+    "nama": "Endah Budiyanto"
+  },
+  {
+    "kode": "549",
+    "nama": "Lalita Prasetya"
+  },
+  {
+    "kode": "550",
+    "nama": "Cengkal Handayani"
+  },
+  {
+    "kode": "551",
+    "nama": "Wirda Habibi"
+  },
+  {
+    "kode": "552",
+    "nama": "R.A. Zulaikha Winarno"
+  },
+  {
+    "kode": "553",
+    "nama": "Uli Nashiruddin"
+  },
+  {
+    "kode": "554",
+    "nama": "Ami Jailani"
+  },
+  {
+    "kode": "555",
+    "nama": "Yessi Mangunsong"
+  },
+  {
+    "kode": "556",
+    "nama": "Oni Latupono"
+  },
+  {
+    "kode": "557",
+    "nama": "Samiah Namaga"
+  },
+  {
+    "kode": "558",
+    "nama": "Kusuma Wastuti"
+  },
+  {
+    "kode": "559",
+    "nama": "Hilda Hasanah"
+  },
+  {
+    "kode": "560",
+    "nama": "Ir. Endah Santoso, S.Psi"
+  },
+  {
+    "kode": "561",
+    "nama": "Bella Puspasari, S.Pt"
+  },
+  {
+    "kode": "562",
+    "nama": "Emong Ardianto"
+  },
+  {
+    "kode": "563",
+    "nama": "Daniswara Suartini"
+  },
+  {
+    "kode": "564",
+    "nama": "Lalita Maryati, M.M."
+  },
+  {
+    "kode": "565",
+    "nama": "Mustofa Damanik"
+  },
+  {
+    "kode": "566",
+    "nama": "Jarwa Kuswoyo, S.T."
+  },
+  {
+    "kode": "567",
+    "nama": "Karma Wijaya"
+  },
+  {
+    "kode": "568",
+    "nama": "Bagya Mangunsong"
+  },
+  {
+    "kode": "569",
+    "nama": "Emas Najmudin, M.Pd"
+  },
+  {
+    "kode": "570",
+    "nama": "Asmuni Purnawati"
+  },
+  {
+    "kode": "571",
+    "nama": "Ir. Anita Waluyo"
+  },
+  {
+    "kode": "572",
+    "nama": "Hj. Ulya Uyainah"
+  },
+  {
+    "kode": "573",
+    "nama": "Sabrina Kuswandari"
+  },
+  {
+    "kode": "574",
+    "nama": "Widya Pangestu, S.H."
+  },
+  {
+    "kode": "575",
+    "nama": "Cut Natalia Hutapea"
+  },
+  {
+    "kode": "576",
+    "nama": "Ir. Niyaga Sitorus, S.E.I"
+  },
+  {
+    "kode": "577",
+    "nama": "Banara Safitri"
+  },
+  {
+    "kode": "578",
+    "nama": "Niyaga Sirait"
+  },
+  {
+    "kode": "579",
+    "nama": "Zamira Kuswandari"
+  },
+  {
+    "kode": "580",
+    "nama": "Mutia Putra"
+  },
+  {
+    "kode": "581",
+    "nama": "Indah Mahendra"
+  },
+  {
+    "kode": "582",
+    "nama": "Tgk. Indah Widiastuti, M.Kom."
+  },
+  {
+    "kode": "583",
+    "nama": "Abyasa Saputra"
+  },
+  {
+    "kode": "584",
+    "nama": "Maras Mahendra"
+  },
+  {
+    "kode": "585",
+    "nama": "Luwar Santoso"
+  },
+  {
+    "kode": "586",
+    "nama": "Jagapati Wijaya"
+  },
+  {
+    "kode": "587",
+    "nama": "Dr. Caket Lailasari"
+  },
+  {
+    "kode": "588",
+    "nama": "Vanesa Rahimah"
+  },
+  {
+    "kode": "589",
+    "nama": "Nova Pudjiastuti"
+  },
+  {
+    "kode": "590",
+    "nama": "Baktiadi Anggriawan"
+  },
+  {
+    "kode": "591",
+    "nama": "Hilda Salahudin"
+  },
+  {
+    "kode": "592",
+    "nama": "Banara Prasetyo"
+  },
+  {
+    "kode": "593",
+    "nama": "Emas Hutasoit"
+  },
+  {
+    "kode": "594",
+    "nama": "Drs. Atmaja Laksita, S.Psi"
+  },
+  {
+    "kode": "595",
+    "nama": "Soleh Sihombing"
+  },
+  {
+    "kode": "596",
+    "nama": "Unggul Wibisono"
+  },
+  {
+    "kode": "597",
+    "nama": "Kezia Saputra, S.Kom"
+  },
+  {
+    "kode": "598",
+    "nama": "Puti Wijayanti"
+  },
+  {
+    "kode": "599",
+    "nama": "Alika Megantara"
+  },
+  {
+    "kode": "600",
+    "nama": "Ganjaran Kuswandari"
+  },
+  {
+    "kode": "601",
+    "nama": "Intan Tarihoran"
+  },
+  {
+    "kode": "602",
+    "nama": "Liman Siregar"
+  },
+  {
+    "kode": "603",
+    "nama": "Paramita Sirait"
+  },
+  {
+    "kode": "604",
+    "nama": "Leo Mayasari"
+  },
+  {
+    "kode": "605",
+    "nama": "Tasdik Nasyidah"
+  },
+  {
+    "kode": "606",
+    "nama": "Unjani Wijaya"
+  },
+  {
+    "kode": "607",
+    "nama": "Lidya Zulkarnain"
+  },
+  {
+    "kode": "608",
+    "nama": "Kani Safitri"
+  },
+  {
+    "kode": "609",
+    "nama": "Maida Aryani"
+  },
+  {
+    "kode": "610",
+    "nama": "Natalia Rahmawati"
+  },
+  {
+    "kode": "611",
+    "nama": "Zulfa Rahmawati"
+  },
+  {
+    "kode": "612",
+    "nama": "Anita Lazuardi"
+  },
+  {
+    "kode": "613",
+    "nama": "Hj. Victoria Anggriawan"
+  },
+  {
+    "kode": "614",
+    "nama": "Dr. Jaya Wahyuni"
+  },
+  {
+    "kode": "615",
+    "nama": "R. Kardi Rajata"
+  },
+  {
+    "kode": "616",
+    "nama": "R. Anom Nainggolan, S.Sos"
+  },
+  {
+    "kode": "617",
+    "nama": "dr. Zelaya Dabukke, S.Psi"
+  },
+  {
+    "kode": "618",
+    "nama": "Dr. Ajimat Pratiwi, S.Sos"
+  },
+  {
+    "kode": "619",
+    "nama": "Prasetya Fujiati, S.Farm"
+  },
+  {
+    "kode": "620",
+    "nama": "Cayadi Suartini"
+  },
+  {
+    "kode": "621",
+    "nama": "Rina Puspasari"
+  },
+  {
+    "kode": "622",
+    "nama": "Rachel Tamba"
+  },
+  {
+    "kode": "623",
+    "nama": "Puti Jamalia Wijayanti, S.Ked"
+  },
+  {
+    "kode": "624",
+    "nama": "Kairav Padmasari"
+  },
+  {
+    "kode": "625",
+    "nama": "Zulaikha Permata, S.Sos"
+  },
+  {
+    "kode": "626",
+    "nama": "Juli Sirait, S.H."
+  },
+  {
+    "kode": "627",
+    "nama": "Sadina Pudjiastuti"
+  },
+  {
+    "kode": "628",
+    "nama": "Laila Irawan"
+  },
+  {
+    "kode": "629",
+    "nama": "Juli Fujiati"
+  },
+  {
+    "kode": "630",
+    "nama": "Nyana Pangestu, M.TI."
+  },
+  {
+    "kode": "631",
+    "nama": "Puspa Hastuti"
+  },
+  {
+    "kode": "632",
+    "nama": "Salsabila Wijaya"
+  },
+  {
+    "kode": "633",
+    "nama": "Winda Mandala"
+  },
+  {
+    "kode": "634",
+    "nama": "Jagapati Suwarno"
+  },
+  {
+    "kode": "635",
+    "nama": "Restu Haryanti, M.M."
+  },
+  {
+    "kode": "636",
+    "nama": "Hana Mayasari"
+  },
+  {
+    "kode": "637",
+    "nama": "Betania Wijaya"
+  },
+  {
+    "kode": "638",
+    "nama": "Devi Puspasari"
+  },
+  {
+    "kode": "639",
+    "nama": "Kuncara Melani"
+  },
+  {
+    "kode": "640",
+    "nama": "Oni Iswahyudi"
+  },
+  {
+    "kode": "641",
+    "nama": "Cahyanto Hutapea"
+  },
+  {
+    "kode": "642",
+    "nama": "Vanesa Maryati"
+  },
+  {
+    "kode": "643",
+    "nama": "Puti Lala Mandasari, S.Pd"
+  },
+  {
+    "kode": "644",
+    "nama": "Raina Rahayu"
+  },
+  {
+    "kode": "645",
+    "nama": "Satya Santoso"
+  },
+  {
+    "kode": "646",
+    "nama": "Hana Puspasari"
+  },
+  {
+    "kode": "647",
+    "nama": "Fitria Farida"
+  },
+  {
+    "kode": "648",
+    "nama": "Hasim Manullang, S.Pd"
+  },
+  {
+    "kode": "649",
+    "nama": "Ihsan Lailasari, M.M."
+  },
+  {
+    "kode": "650",
+    "nama": "Umar Mulyani, M.M."
+  },
+  {
+    "kode": "651",
+    "nama": "Erik Prakasa, S.T."
+  },
+  {
+    "kode": "652",
+    "nama": "Lurhur Anggriawan"
+  },
+  {
+    "kode": "653",
+    "nama": "R.A. Devi Nainggolan, S.Farm"
+  },
+  {
+    "kode": "654",
+    "nama": "Pandu Budiyanto"
+  },
+  {
+    "kode": "655",
+    "nama": "Jarwadi Anggriawan"
+  },
+  {
+    "kode": "656",
+    "nama": "Vera Sihotang"
+  },
+  {
+    "kode": "657",
+    "nama": "Cut Lili Suryono"
+  },
+  {
+    "kode": "658",
+    "nama": "Hilda Pradana"
+  },
+  {
+    "kode": "659",
+    "nama": "Bakiman Prabowo"
+  },
+  {
+    "kode": "660",
+    "nama": "KH. Balangga Mandala, S.E.I"
+  },
+  {
+    "kode": "661",
+    "nama": "Laswi Aryani"
+  },
+  {
+    "kode": "662",
+    "nama": "Daniswara Firgantoro"
+  },
+  {
+    "kode": "663",
+    "nama": "Oni Wulandari"
+  },
+  {
+    "kode": "664",
+    "nama": "Makuta Agustina"
+  },
+  {
+    "kode": "665",
+    "nama": "Sutan Kambali Pranowo"
+  },
+  {
+    "kode": "666",
+    "nama": "Gangsa Marbun"
+  },
+  {
+    "kode": "667",
+    "nama": "Abyasa Permadi"
+  },
+  {
+    "kode": "668",
+    "nama": "Banawi Mandasari, M.Kom."
+  },
+  {
+    "kode": "669",
+    "nama": "Radika Thamrin"
+  },
+  {
+    "kode": "670",
+    "nama": "Wardaya Nasyidah"
+  },
+  {
+    "kode": "671",
+    "nama": "Prabu Nasyiah"
+  },
+  {
+    "kode": "672",
+    "nama": "Dalimin Wacana"
+  },
+  {
+    "kode": "673",
+    "nama": "Nilam Suryatmi"
+  },
+  {
+    "kode": "674",
+    "nama": "Dr. Kamaria Winarsih"
+  },
+  {
+    "kode": "675",
+    "nama": "Garda Wasita"
+  },
+  {
+    "kode": "676",
+    "nama": "Laila Usamah"
+  },
+  {
+    "kode": "677",
+    "nama": "Ida Padmasari"
+  },
+  {
+    "kode": "678",
+    "nama": "Saadat Irawan"
+  },
+  {
+    "kode": "679",
+    "nama": "Latika Mansur"
+  },
+  {
+    "kode": "680",
+    "nama": "Ir. Marwata Situmorang"
+  },
+  {
+    "kode": "681",
+    "nama": "Syahrini Pratiwi"
+  },
+  {
+    "kode": "682",
+    "nama": "Puti Firgantoro"
+  },
+  {
+    "kode": "683",
+    "nama": "T. Wadi Nababan, M.Pd"
+  },
+  {
+    "kode": "684",
+    "nama": "Nadine Pangestu"
+  },
+  {
+    "kode": "685",
+    "nama": "Jail Yolanda"
+  },
+  {
+    "kode": "686",
+    "nama": "Icha Widodo"
+  },
+  {
+    "kode": "687",
+    "nama": "Dr. Hafshah Jailani"
+  },
+  {
+    "kode": "688",
+    "nama": "Bagas Ardianto"
+  },
+  {
+    "kode": "689",
+    "nama": "Cut Dinda Dabukke, S.Kom"
+  },
+  {
+    "kode": "690",
+    "nama": "Bella Suryatmi"
+  },
+  {
+    "kode": "691",
+    "nama": "Drs. Cinthia Suryono, M.Farm"
+  },
+  {
+    "kode": "692",
+    "nama": "Yessi Prasetyo, M.Kom."
+  },
+  {
+    "kode": "693",
+    "nama": "Yoga Halim"
+  },
+  {
+    "kode": "694",
+    "nama": "drg. Kawaya Sihotang"
+  },
+  {
+    "kode": "695",
+    "nama": "Yani Januar"
+  },
+  {
+    "kode": "696",
+    "nama": "Rina Namaga, S.H."
+  },
+  {
+    "kode": "697",
+    "nama": "Nadine Marbun, S.H."
+  },
+  {
+    "kode": "698",
+    "nama": "Zelaya Simanjuntak"
+  },
+  {
+    "kode": "699",
+    "nama": "Ina Dabukke"
+  },
+  {
+    "kode": "700",
+    "nama": "Ir. Gawati Irawan"
+  },
+  {
+    "kode": "701",
+    "nama": "Imam Halim, S.Farm"
+  },
+  {
+    "kode": "702",
+    "nama": "Karma Prabowo, S.Pt"
+  },
+  {
+    "kode": "703",
+    "nama": "Ira Prasasta"
+  },
+  {
+    "kode": "704",
+    "nama": "Elon Budiyanto"
+  },
+  {
+    "kode": "705",
+    "nama": "Cut Najwa Aryani"
+  },
+  {
+    "kode": "706",
+    "nama": "dr. Kamidin Ramadan"
+  },
+  {
+    "kode": "707",
+    "nama": "Puspa Jailani"
+  },
+  {
+    "kode": "708",
+    "nama": "dr. Nardi Ramadan, S.Farm"
+  },
+  {
+    "kode": "709",
+    "nama": "Wakiman Pradana"
+  },
+  {
+    "kode": "710",
+    "nama": "Gawati Utama, M.Pd"
+  },
+  {
+    "kode": "711",
+    "nama": "drg. Lamar Handayani, M.Farm"
+  },
+  {
+    "kode": "712",
+    "nama": "Rama Yolanda"
+  },
+  {
+    "kode": "713",
+    "nama": "Nadine Sihombing"
+  },
+  {
+    "kode": "714",
+    "nama": "Uda Handayani"
+  },
+  {
+    "kode": "715",
+    "nama": "Fitriani Adriansyah"
+  },
+  {
+    "kode": "716",
+    "nama": "Dalima Pangestu"
+  },
+  {
+    "kode": "717",
+    "nama": "Tgk. Elvina Latupono, S.H."
+  },
+  {
+    "kode": "718",
+    "nama": "Tgk. Maria Aryani, M.Kom."
+  },
+  {
+    "kode": "719",
+    "nama": "R.A. Natalia Halimah, S.Kom"
+  },
+  {
+    "kode": "720",
+    "nama": "Capa Usada"
+  },
+  {
+    "kode": "721",
+    "nama": "KH. Jati Hutasoit"
+  },
+  {
+    "kode": "722",
+    "nama": "T. Gilang Januar, M.Pd"
+  },
+  {
+    "kode": "723",
+    "nama": "Amelia Nainggolan, M.Farm"
+  },
+  {
+    "kode": "724",
+    "nama": "Ganda Tamba"
+  },
+  {
+    "kode": "725",
+    "nama": "Talia Rahmawati"
+  },
+  {
+    "kode": "726",
+    "nama": "R. Caturangga Yuliarti, S.E.I"
+  },
+  {
+    "kode": "727",
+    "nama": "T. Emin Napitupulu"
+  },
+  {
+    "kode": "728",
+    "nama": "Timbul Tampubolon"
+  },
+  {
+    "kode": "729",
+    "nama": "Jati Lestari"
+  },
+  {
+    "kode": "730",
+    "nama": "drg. Limar Maryadi"
+  },
+  {
+    "kode": "731",
+    "nama": "Umaya Firmansyah"
+  },
+  {
+    "kode": "732",
+    "nama": "Vicky Uyainah, M.Kom."
+  },
+  {
+    "kode": "733",
+    "nama": "Putri Uyainah"
+  },
+  {
+    "kode": "734",
+    "nama": "Ayu Saputra"
+  },
+  {
+    "kode": "735",
+    "nama": "Tania Wulandari, S.IP"
+  },
+  {
+    "kode": "736",
+    "nama": "Elma Santoso"
+  },
+  {
+    "kode": "737",
+    "nama": "Gilda Salahudin"
+  },
+  {
+    "kode": "738",
+    "nama": "Ir. Cindy Wijaya"
+  },
+  {
+    "kode": "739",
+    "nama": "Najib Prasetya"
+  },
+  {
+    "kode": "740",
+    "nama": "Jessica Hasanah"
+  },
+  {
+    "kode": "741",
+    "nama": "Calista Nurdiyanti, M.Ak"
+  },
+  {
+    "kode": "742",
+    "nama": "Raina Nababan"
+  },
+  {
+    "kode": "743",
+    "nama": "drg. Nrima Mangunsong, S.E.I"
+  },
+  {
+    "kode": "744",
+    "nama": "Kenzie Prasasta"
+  },
+  {
+    "kode": "745",
+    "nama": "Amelia Farida"
+  },
+  {
+    "kode": "746",
+    "nama": "Sari Nasyidah"
+  },
+  {
+    "kode": "747",
+    "nama": "Sutan Yono Sitompul, S.E."
+  },
+  {
+    "kode": "748",
+    "nama": "Nurul Sirait, M.TI."
+  },
+  {
+    "kode": "749",
+    "nama": "Ir. Siti Januar, S.Psi"
+  },
+  {
+    "kode": "750",
+    "nama": "Lamar Simanjuntak"
+  },
+  {
+    "kode": "751",
+    "nama": "Zahra Puspasari"
+  },
+  {
+    "kode": "752",
+    "nama": "Lanang Agustina"
+  },
+  {
+    "kode": "753",
+    "nama": "Dr. Ilsa Budiyanto, S.Kom"
+  },
+  {
+    "kode": "754",
+    "nama": "Vivi Hakim"
+  },
+  {
+    "kode": "755",
+    "nama": "Widya Saefullah, S.I.Kom"
+  },
+  {
+    "kode": "756",
+    "nama": "Fathonah Waluyo, M.Kom."
+  },
+  {
+    "kode": "757",
+    "nama": "Cemeti Maryati"
+  },
+  {
+    "kode": "758",
+    "nama": "Ir. Elvina Wahyudin, S.H."
+  },
+  {
+    "kode": "759",
+    "nama": "Jelita Mayasari"
+  },
+  {
+    "kode": "760",
+    "nama": "R.M. Tomi Puspasari, S.Sos"
+  },
+  {
+    "kode": "761",
+    "nama": "Najwa Mardhiyah, S.E.I"
+  },
+  {
+    "kode": "762",
+    "nama": "R.A. Gabriella Kuswoyo"
+  },
+  {
+    "kode": "763",
+    "nama": "Kania Andriani"
+  },
+  {
+    "kode": "764",
+    "nama": "Elisa Mulyani, S.I.Kom"
+  },
+  {
+    "kode": "765",
+    "nama": "Chelsea Haryanti"
+  },
+  {
+    "kode": "766",
+    "nama": "Irnanto Prasetyo, S.E.I"
+  },
+  {
+    "kode": "767",
+    "nama": "Aisyah Hartati"
+  },
+  {
+    "kode": "768",
+    "nama": "R.A. Malika Megantara"
+  },
+  {
+    "kode": "769",
+    "nama": "Wawan Winarno"
+  },
+  {
+    "kode": "770",
+    "nama": "Paulin Permata"
+  },
+  {
+    "kode": "771",
+    "nama": "Wardi Sihombing"
+  },
+  {
+    "kode": "772",
+    "nama": "Drs. Ibrani Hardiansyah, M.M."
+  },
+  {
+    "kode": "773",
+    "nama": "Ophelia Mandala"
+  },
+  {
+    "kode": "774",
+    "nama": "R. Mala Halim"
+  },
+  {
+    "kode": "775",
+    "nama": "Kenari Sirait"
+  },
+  {
+    "kode": "776",
+    "nama": "Nyana Utami"
+  },
+  {
+    "kode": "777",
+    "nama": "Nurul Namaga"
+  },
+  {
+    "kode": "778",
+    "nama": "Samiah Januar"
+  },
+  {
+    "kode": "779",
+    "nama": "Rahmat Yuliarti, M.Pd"
+  },
+  {
+    "kode": "780",
+    "nama": "Raisa Uyainah"
+  },
+  {
+    "kode": "781",
+    "nama": "Ajeng Pradana, M.Kom."
+  },
+  {
+    "kode": "782",
+    "nama": "Cawisono Rahimah, S.Sos"
+  },
+  {
+    "kode": "783",
+    "nama": "R.M. Prayitna Haryanti, S.Ked"
+  },
+  {
+    "kode": "784",
+    "nama": "Hasna Tampubolon"
+  },
+  {
+    "kode": "785",
+    "nama": "KH. Cemplunk Pratiwi"
+  },
+  {
+    "kode": "786",
+    "nama": "Ratna Fujiati, M.Farm"
+  },
+  {
+    "kode": "787",
+    "nama": "Kawaca Pranowo"
+  },
+  {
+    "kode": "788",
+    "nama": "Cici Rahmawati"
+  },
+  {
+    "kode": "789",
+    "nama": "R. Sabri Anggriawan, S.Sos"
+  },
+  {
+    "kode": "790",
+    "nama": "Drs. Sari Gunawan"
+  },
+  {
+    "kode": "791",
+    "nama": "Tgk. Jumari Laksita"
+  },
+  {
+    "kode": "792",
+    "nama": "R. Puji Lazuardi"
+  },
+  {
+    "kode": "793",
+    "nama": "R.M. Kamal Pertiwi"
+  },
+  {
+    "kode": "794",
+    "nama": "Dewi Anggraini, S.Farm"
+  },
+  {
+    "kode": "795",
+    "nama": "Ega Firmansyah"
+  },
+  {
+    "kode": "796",
+    "nama": "Sadina Maulana"
+  },
+  {
+    "kode": "797",
+    "nama": "Karsa Sudiati"
+  },
+  {
+    "kode": "798",
+    "nama": "Hj. Olivia Kusumo, M.Ak"
+  },
+  {
+    "kode": "799",
+    "nama": "Yessi Mandala"
+  },
+  {
+    "kode": "800",
+    "nama": "Tiara Gunawan"
+  },
+  {
+    "kode": "801",
+    "nama": "Drs. Rahmat Mangunsong"
+  },
+  {
+    "kode": "802",
+    "nama": "Prasetya Nugroho"
+  },
+  {
+    "kode": "803",
+    "nama": "Gawati Gunawan"
+  },
+  {
+    "kode": "804",
+    "nama": "Gawati Laksita"
+  },
+  {
+    "kode": "805",
+    "nama": "Puti Zaenab Maryati"
+  },
+  {
+    "kode": "806",
+    "nama": "drg. Gilda Usamah, S.E.I"
+  },
+  {
+    "kode": "807",
+    "nama": "Rachel Yuliarti"
+  },
+  {
+    "kode": "808",
+    "nama": "Puput Nashiruddin"
+  },
+  {
+    "kode": "809",
+    "nama": "Saka Ramadan"
+  },
+  {
+    "kode": "810",
+    "nama": "Garang Suryono"
+  },
+  {
+    "kode": "811",
+    "nama": "Drs. Vivi Wibisono"
+  },
+  {
+    "kode": "812",
+    "nama": "Jelita Prasetyo"
+  },
+  {
+    "kode": "813",
+    "nama": "Ir. Vinsen Nasyidah, S.Pt"
+  },
+  {
+    "kode": "814",
+    "nama": "Icha Manullang, S.Kom"
+  },
+  {
+    "kode": "815",
+    "nama": "Mariadi Wibisono"
+  },
+  {
+    "kode": "816",
+    "nama": "Dt. Surya Susanti"
+  },
+  {
+    "kode": "817",
+    "nama": "Ade Yulianti"
+  },
+  {
+    "kode": "818",
+    "nama": "Raina Sinaga, S.I.Kom"
+  },
+  {
+    "kode": "819",
+    "nama": "Zulfa Haryanto, S.E.I"
+  },
+  {
+    "kode": "820",
+    "nama": "Padma Natsir, M.Farm"
+  },
+  {
+    "kode": "821",
+    "nama": "Ir. Ulya Astuti"
+  },
+  {
+    "kode": "822",
+    "nama": "Banawi Sihombing"
+  },
+  {
+    "kode": "823",
+    "nama": "Estiono Winarno"
+  },
+  {
+    "kode": "824",
+    "nama": "Cut Michelle Mahendra, M.Ak"
+  },
+  {
+    "kode": "825",
+    "nama": "Drs. Dirja Nasyiah, S.H."
+  },
+  {
+    "kode": "826",
+    "nama": "R.M. Naradi Purnawati, S.Pt"
+  },
+  {
+    "kode": "827",
+    "nama": "Cengkir Nurdiyanti"
+  },
+  {
+    "kode": "828",
+    "nama": "Hj. Puspa Hidayanto, M.TI."
+  },
+  {
+    "kode": "829",
+    "nama": "Paulin Yuliarti"
+  },
+  {
+    "kode": "830",
+    "nama": "Amalia Suryono"
+  },
+  {
+    "kode": "831",
+    "nama": "R.M. Asman Puspita, M.Pd"
+  },
+  {
+    "kode": "832",
+    "nama": "dr. Gambira Prabowo"
+  },
+  {
+    "kode": "833",
+    "nama": "drg. Winda Nurdiyanti"
+  },
+  {
+    "kode": "834",
+    "nama": "dr. Xanana Pudjiastuti, M.TI."
+  },
+  {
+    "kode": "835",
+    "nama": "Kenari Wibowo"
+  },
+  {
+    "kode": "836",
+    "nama": "Endah Maheswara"
+  },
+  {
+    "kode": "837",
+    "nama": "Lili Rahmawati"
+  },
+  {
+    "kode": "838",
+    "nama": "Rafid Haryanto"
+  },
+  {
+    "kode": "839",
+    "nama": "Ir. Kania Januar, S.Gz"
+  },
+  {
+    "kode": "840",
+    "nama": "dr. Utama Pertiwi, S.Farm"
+  },
+  {
+    "kode": "841",
+    "nama": "Capa Usada"
+  },
+  {
+    "kode": "842",
+    "nama": "Dina Suwarno, S.E.I"
+  },
+  {
+    "kode": "843",
+    "nama": "Salman Nashiruddin"
+  },
+  {
+    "kode": "844",
+    "nama": "Puti Hilda Suryono"
+  },
+  {
+    "kode": "845",
+    "nama": "Dr. Jasmani Megantara"
+  },
+  {
+    "kode": "846",
+    "nama": "Gasti Utami"
+  },
+  {
+    "kode": "847",
+    "nama": "Yance Firmansyah"
+  },
+  {
+    "kode": "848",
+    "nama": "Jumadi Lailasari"
+  },
+  {
+    "kode": "849",
+    "nama": "Dinda Waskita"
+  },
+  {
+    "kode": "850",
+    "nama": "Ir. Hendri Usamah"
+  },
+  {
+    "kode": "851",
+    "nama": "Najwa Mulyani, S.Gz"
+  },
+  {
+    "kode": "852",
+    "nama": "Saadat Fujiati"
+  },
+  {
+    "kode": "853",
+    "nama": "Ulya Pranowo"
+  },
+  {
+    "kode": "854",
+    "nama": "Ida Sihotang"
+  },
+  {
+    "kode": "855",
+    "nama": "Cahya Mandala"
+  },
+  {
+    "kode": "856",
+    "nama": "Jasmani Hastuti"
+  },
+  {
+    "kode": "857",
+    "nama": "Hani Waluyo"
+  },
+  {
+    "kode": "858",
+    "nama": "Endra Samosir"
+  },
+  {
+    "kode": "859",
+    "nama": "drg. Ulva Permadi"
+  },
+  {
+    "kode": "860",
+    "nama": "Amalia Wacana"
+  },
+  {
+    "kode": "861",
+    "nama": "Uchita Nababan"
+  },
+  {
+    "kode": "862",
+    "nama": "drg. Betania Handayani, S.Farm"
+  },
+  {
+    "kode": "863",
+    "nama": "Johan Nugroho"
+  },
+  {
+    "kode": "864",
+    "nama": "Edward Latupono, S.Gz"
+  },
+  {
+    "kode": "865",
+    "nama": "Ir. Lili Haryanto"
+  },
+  {
+    "kode": "866",
+    "nama": "Galih Budiyanto, S.Sos"
+  },
+  {
+    "kode": "867",
+    "nama": "Ikhsan Sudiati"
+  },
+  {
+    "kode": "868",
+    "nama": "Zalindra Mandasari"
+  },
+  {
+    "kode": "869",
+    "nama": "dr. Raden Novitasari, S.IP"
+  },
+  {
+    "kode": "870",
+    "nama": "Sutan Saadat Gunawan"
+  },
+  {
+    "kode": "871",
+    "nama": "Marwata Prayoga"
+  },
+  {
+    "kode": "872",
+    "nama": "Jais Fujiati"
+  },
+  {
+    "kode": "873",
+    "nama": "Rangga Suwarno"
+  },
+  {
+    "kode": "874",
+    "nama": "Hj. Kamaria Siregar"
+  },
+  {
+    "kode": "875",
+    "nama": "Ir. Nadia Permadi, S.Sos"
+  },
+  {
+    "kode": "876",
+    "nama": "Zulaikha Suartini"
+  },
+  {
+    "kode": "877",
+    "nama": "Zizi Waluyo"
+  },
+  {
+    "kode": "878",
+    "nama": "Prayitna Winarno"
+  },
+  {
+    "kode": "879",
+    "nama": "Pia Prasetya, S.H."
+  },
+  {
+    "kode": "880",
+    "nama": "Hartaka Handayani"
+  },
+  {
+    "kode": "881",
+    "nama": "Lutfan Wastuti"
+  },
+  {
+    "kode": "882",
+    "nama": "Daruna Wahyudin"
+  },
+  {
+    "kode": "883",
+    "nama": "Azalea Mayasari"
+  },
+  {
+    "kode": "884",
+    "nama": "Citra Irawan"
+  },
+  {
+    "kode": "885",
+    "nama": "Makara Hasanah"
+  },
+  {
+    "kode": "886",
+    "nama": "Cut Lintang Hardiansyah"
+  },
+  {
+    "kode": "887",
+    "nama": "Emil Iswahyudi"
+  },
+  {
+    "kode": "888",
+    "nama": "Hesti Wahyuni"
+  },
+  {
+    "kode": "889",
+    "nama": "Ratih Usamah"
+  },
+  {
+    "kode": "890",
+    "nama": "Rendy Prabowo"
+  },
+  {
+    "kode": "891",
+    "nama": "Praba Mayasari, S.Psi"
+  },
+  {
+    "kode": "892",
+    "nama": "Harjaya Tarihoran"
+  },
+  {
+    "kode": "893",
+    "nama": "drg. Zizi Anggriawan"
+  },
+  {
+    "kode": "894",
+    "nama": "Qori Anggriawan"
+  },
+  {
+    "kode": "895",
+    "nama": "Cakrawala Laksita"
+  },
+  {
+    "kode": "896",
+    "nama": "Artawan Wacana"
+  },
+  {
+    "kode": "897",
+    "nama": "drg. Rina Wibowo"
+  },
+  {
+    "kode": "898",
+    "nama": "H. Karta Pertiwi, S.Pt"
+  },
+  {
+    "kode": "899",
+    "nama": "Jasmani Kusmawati"
+  },
+  {
+    "kode": "900",
+    "nama": "drg. Lintang Wulandari, M.Farm"
+  },
+  {
+    "kode": "901",
+    "nama": "Karja Hassanah"
+  },
+  {
+    "kode": "902",
+    "nama": "Irwan Sudiati"
+  },
+  {
+    "kode": "903",
+    "nama": "Kardi Simbolon, S.H."
+  },
+  {
+    "kode": "904",
+    "nama": "Sabri Melani"
+  },
+  {
+    "kode": "905",
+    "nama": "Salsabila Habibi"
+  },
+  {
+    "kode": "906",
+    "nama": "Viman Wijayanti"
+  },
+  {
+    "kode": "907",
+    "nama": "Luthfi Prasetyo, S.Psi"
+  },
+  {
+    "kode": "908",
+    "nama": "Anita Wahyuni"
+  },
+  {
+    "kode": "909",
+    "nama": "Ulya Laksita"
+  },
+  {
+    "kode": "910",
+    "nama": "R.A. Jamalia Simbolon, S.E."
+  },
+  {
+    "kode": "911",
+    "nama": "Darijan Manullang"
+  },
+  {
+    "kode": "912",
+    "nama": "Septi Dongoran"
+  },
+  {
+    "kode": "913",
+    "nama": "Tira Melani"
+  },
+  {
+    "kode": "914",
+    "nama": "Puti Dian Hutapea, S.T."
+  },
+  {
+    "kode": "915",
+    "nama": "Tedi Maryadi"
+  },
+  {
+    "kode": "916",
+    "nama": "Genta Hassanah"
+  },
+  {
+    "kode": "917",
+    "nama": "Rizki Kusmawati"
+  },
+  {
+    "kode": "918",
+    "nama": "Vero Mansur"
+  },
+  {
+    "kode": "919",
+    "nama": "R. Nova Nuraini"
+  },
+  {
+    "kode": "920",
+    "nama": "R.M. Gaduh Maryadi"
+  },
+  {
+    "kode": "921",
+    "nama": "drg. Wasis Anggraini"
+  },
+  {
+    "kode": "922",
+    "nama": "drg. Darimin Sudiati, S.H."
+  },
+  {
+    "kode": "923",
+    "nama": "Endra Wibisono, S.H."
+  },
+  {
+    "kode": "924",
+    "nama": "Darijan Adriansyah"
+  },
+  {
+    "kode": "925",
+    "nama": "Tri Thamrin"
+  },
+  {
+    "kode": "926",
+    "nama": "Lasmanto Napitupulu"
+  },
+  {
+    "kode": "927",
+    "nama": "Cakrajiya Puspasari"
+  },
+  {
+    "kode": "928",
+    "nama": "R.M. Cecep Purnawati, S.IP"
+  },
+  {
+    "kode": "929",
+    "nama": "Kusuma Hidayat"
+  },
+  {
+    "kode": "930",
+    "nama": "Edison Sinaga"
+  },
+  {
+    "kode": "931",
+    "nama": "Vicky Sudiati"
+  },
+  {
+    "kode": "932",
+    "nama": "Gangsar Pudjiastuti"
+  },
+  {
+    "kode": "933",
+    "nama": "Kani Ardianto, S.Sos"
+  },
+  {
+    "kode": "934",
+    "nama": "Ciaobella Iswahyudi"
+  },
+  {
+    "kode": "935",
+    "nama": "Cut Vanesa Nababan"
+  },
+  {
+    "kode": "936",
+    "nama": "Jumari Kuswoyo, S.Kom"
+  },
+  {
+    "kode": "937",
+    "nama": "Ifa Wibisono"
+  },
+  {
+    "kode": "938",
+    "nama": "Kemal Safitri"
+  },
+  {
+    "kode": "939",
+    "nama": "Rachel Nuraini"
+  },
+  {
+    "kode": "940",
+    "nama": "Kuncara Iswahyudi"
+  },
+  {
+    "kode": "941",
+    "nama": "Arta Nainggolan, M.Pd"
+  },
+  {
+    "kode": "942",
+    "nama": "Makara Mandasari"
+  },
+  {
+    "kode": "943",
+    "nama": "Ir. Rahmat Haryanti, S.E.I"
+  },
+  {
+    "kode": "944",
+    "nama": "Lalita Tampubolon"
+  },
+  {
+    "kode": "945",
+    "nama": "R. Najam Natsir"
+  },
+  {
+    "kode": "946",
+    "nama": "Aurora Agustina"
+  },
+  {
+    "kode": "947",
+    "nama": "Koko Januar"
+  },
+  {
+    "kode": "948",
+    "nama": "Ade Saputra"
+  },
+  {
+    "kode": "949",
+    "nama": "Farah Wibowo"
+  },
+  {
+    "kode": "950",
+    "nama": "Okto Narpati"
+  },
+  {
+    "kode": "951",
+    "nama": "Shania Purnawati"
+  },
+  {
+    "kode": "952",
+    "nama": "dr. Pandu Wahyudin, S.Sos"
+  },
+  {
+    "kode": "953",
+    "nama": "Ella Prabowo, S.Kom"
+  },
+  {
+    "kode": "954",
+    "nama": "Endra Firgantoro"
+  },
+  {
+    "kode": "955",
+    "nama": "drg. Agus Yuniar"
+  },
+  {
+    "kode": "956",
+    "nama": "Manah Anggraini"
+  },
+  {
+    "kode": "957",
+    "nama": "Silvia Maulana"
+  },
+  {
+    "kode": "958",
+    "nama": "T. Himawan Habibi, S.Pd"
+  },
+  {
+    "kode": "959",
+    "nama": "R.M. Dodo Maulana, S.Kom"
+  },
+  {
+    "kode": "960",
+    "nama": "Bahuwarna Suryono, M.TI."
+  },
+  {
+    "kode": "961",
+    "nama": "Tgk. Safina Anggriawan"
+  },
+  {
+    "kode": "962",
+    "nama": "Hendri Pradipta"
+  },
+  {
+    "kode": "963",
+    "nama": "Ayu Wulandari"
+  },
+  {
+    "kode": "964",
+    "nama": "T. Ajimin Sitorus"
+  },
+  {
+    "kode": "965",
+    "nama": "Bagya Sihombing"
+  },
+  {
+    "kode": "966",
+    "nama": "Karsana Napitupulu"
+  },
+  {
+    "kode": "967",
+    "nama": "Darijan Laksita"
+  },
+  {
+    "kode": "968",
+    "nama": "Puput Pranowo, S.E."
+  },
+  {
+    "kode": "969",
+    "nama": "Tami Kuswoyo"
+  },
+  {
+    "kode": "970",
+    "nama": "Carub Wijayanti"
+  },
+  {
+    "kode": "971",
+    "nama": "Adikara Waluyo"
+  },
+  {
+    "kode": "972",
+    "nama": "Cut Zaenab Tampubolon"
+  },
+  {
+    "kode": "973",
+    "nama": "Kurnia Tarihoran"
+  },
+  {
+    "kode": "974",
+    "nama": "Hj. Ophelia Tamba"
+  },
+  {
+    "kode": "975",
+    "nama": "Ade Padmasari"
+  },
+  {
+    "kode": "976",
+    "nama": "Cakrajiya Tampubolon"
+  },
+  {
+    "kode": "977",
+    "nama": "Oni Sihotang"
+  },
+  {
+    "kode": "978",
+    "nama": "Abyasa Utama"
+  },
+  {
+    "kode": "979",
+    "nama": "Karma Suryatmi"
+  },
+  {
+    "kode": "980",
+    "nama": "Tirta Haryanto"
+  },
+  {
+    "kode": "981",
+    "nama": "Ir. Dacin Rahmawati, S.H."
+  },
+  {
+    "kode": "982",
+    "nama": "Humaira Situmorang"
+  },
+  {
+    "kode": "983",
+    "nama": "Jumadi Simanjuntak"
+  },
+  {
+    "kode": "984",
+    "nama": "Faizah Uwais"
+  },
+  {
+    "kode": "985",
+    "nama": "Lasmanto Jailani"
+  },
+  {
+    "kode": "986",
+    "nama": "Gatot Gunawan"
+  },
+  {
+    "kode": "987",
+    "nama": "Candra Permadi"
+  },
+  {
+    "kode": "988",
+    "nama": "Cut Raisa Kusmawati, S.IP"
+  },
+  {
+    "kode": "989",
+    "nama": "Kamila Dabukke, S.H."
+  },
+  {
+    "kode": "990",
+    "nama": "Drs. Kiandra Ardianto"
+  },
+  {
+    "kode": "991",
+    "nama": "KH. Lanang Anggraini"
+  },
+  {
+    "kode": "992",
+    "nama": "Imam Anggriawan"
+  },
+  {
+    "kode": "993",
+    "nama": "Lukita Mandala"
+  },
+  {
+    "kode": "994",
+    "nama": "Sutan Banara Sinaga"
+  },
+  {
+    "kode": "995",
+    "nama": "Ana Mahendra"
+  },
+  {
+    "kode": "996",
+    "nama": "Bakti Maheswara"
+  },
+  {
+    "kode": "997",
+    "nama": "Cindy Wibisono"
+  },
+  {
+    "kode": "998",
+    "nama": "Tri Mayasari"
+  },
+  {
+    "kode": "999",
+    "nama": "R. Bakiadi Halim"
+  },
+  {
+    "kode": "1000",
+    "nama": "Dt. Hari Saptono"
+  }
+]

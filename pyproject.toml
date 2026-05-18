@@ -1,0 +1,28 @@
+[project]
+name = "face-recognition"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+dependencies = [
+    "torch",
+    "torchvision",
+    "deepface>=0.0.99",
+    "python-dotenv>=0.9.9",
+    "fastapi>=0.136.1",
+    "numpy>=2.4.4",
+    "python-multipart>=0.0.28",
+    "tf-keras>=2.21.0",
+    "uvicorn>=0.46.0",
+    "opencv-python-headless>=4.13.0.92",
+]
+
+[tool.uv.sources]
+face-recognition-models = { git = "https://github.com/ageitgey/face_recognition_models" }
+
+torch = { index = "pytorch-cpu" }
+torchvision = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
