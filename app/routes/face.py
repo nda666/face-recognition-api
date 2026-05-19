@@ -87,6 +87,7 @@ async def compare(
     img2, _, err2 = await extract_from_source(
         image2,
         image2_url,
+        False,
         label="image2"
     )
 

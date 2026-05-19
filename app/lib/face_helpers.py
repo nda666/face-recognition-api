@@ -118,7 +118,7 @@ def deepface_compare(img1: np.ndarray, img2: np.ndarray, tolerance: float = 0.8)
         distance  = round(result["distance"], 4)
         matched   = result["verified"]
         threshold = result["threshold"]
-        confidence = round(max(0.0, 1.0 - distance / threshold) * 100, 2) if matched else 0.0
+        confidence = result["confidence"]
         return {
             "matched":    matched,
             "distance":   distance,
