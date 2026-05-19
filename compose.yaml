@@ -12,3 +12,10 @@ services:
     volumes:
       - ./storage:/storage
     restart: unless-stopped
+    networks:
+      - web-network
+
+networks:
+  web-network:
+    name: web-network
+    external: true
