@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  face-recognition-api:
+    image: face-recognition-api
+    container_name: face-recognition-api
+    ports:
+      - "8000:6969"
+    environment:
+      DB_PATH: /storage/embeddings.db
+    volumes:
+      - ./storage:/storage
+    restart: unless-stopped
