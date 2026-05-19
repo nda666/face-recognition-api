@@ -5,7 +5,7 @@ services:
     image: face-recognition-api
     container_name: face-recognition-api
     ports:
-      - "8000:6969"
+      - "6969:8000"
     environment:
       DB_PATH: /storage/embeddings.db
     volumes:
