@@ -1,5 +1,4 @@
-import numpy as np
-from fastapi import APIRouter, Form, UploadFile, File
+from fastapi import APIRouter, Form, UploadFile, File,Request
 from fastapi.responses import JSONResponse
 
 from app.lib.store import EmbeddingStore
@@ -50,29 +49,54 @@ async def verify(image: UploadFile = File(...)):
     })
 
 
+
 @router.post("/compare")
 async def compare(
-    tolerance:  float      = Form(0.45),
-    image1:     UploadFile = File(None),
-    image1_url: str        = Form(None),
-    image2:     UploadFile = File(None),
-    image2_url: str        = Form(None),
+    request: Request,
+    image1: UploadFile = File(None),
+    image2: UploadFile = File(None),
 ):
-    img1, _, err1 = await extract_from_source(image1, image1_url, False, label="image1")
+    content_type = request.headers.get("content-type", "")
+
+    if "application/json" in content_type:
+        body = await request.json()
+
+        tolerance = body.get("tolerance", 0.45)
+        image1_url = body.get("image1_url")
+        image2_url = body.get("image2_url")
+
+    else:
+        form = await request.form()
+
+        tolerance = float(form.get("tolerance", 0.45))
+        image1_url = form.get("image1_url")
+        image2_url = form.get("image2_url")
+
+    img1, _, err1 = await extract_from_source(
+        image1,
+        image1_url,
+        False,
+        label="image1"
+    )
+
     if err1:
         return err1
 
-    img2, _, err2 = await extract_from_source(image2, image2_url, label="image2")
+    img2, _, err2 = await extract_from_source(
+        image2,
+        image2_url,
+        label="image2"
+    )
+
     if err2:
         return err2
 
-    try:
-        result = deepface_compare(img1, img2)
-    except HTTPException as e:
-        return JSONResponse({"ok": False, "msg": e.detail}, status_code=e.status_code)
+    result = deepface_compare(img1, img2, tolerance)
 
-    return JSONResponse({"ok": True, **result})
-
+    return {
+        "ok": True,
+        **result
+    }
 
 @router.delete("/delete-id")
 async def delete(id: str):
