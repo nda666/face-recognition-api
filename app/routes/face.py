@@ -54,7 +54,9 @@ async def verify(image: UploadFile = File(...)):
 async def compare(
     request: Request,
     image1: UploadFile = File(None),
+    image1_url: str = Form(None),
     image2: UploadFile = File(None),
+    image2_url: str = Form(None),
 ):
     content_type = request.headers.get("content-type", "")
 
