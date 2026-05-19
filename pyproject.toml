@@ -14,6 +14,12 @@ dependencies = [
     "tf-keras>=2.21.0",
     "uvicorn>=0.46.0",
     "opencv-python-headless>=4.13.0.92",
+    "fastapi-inertia>=1.1.0",
+    "tortoise-orm>=1.1.7",
+    "pydantic[email]>=2.13.4",
+    "pwdlib[bcrypt]>=0.3.0",
+    "httpx>=0.28.1",
+    "diskcache>=5.6.3",
 ]
 
 [tool.uv.sources]
@@ -26,3 +32,7 @@ torchvision = { index = "pytorch-cpu" }
 name = "pytorch-cpu"
 url = "https://download.pytorch.org/whl/cpu"
 explicit = true
+
+
+[tool.tortoise]
+tortoise_orm = "app.lib.database.TORTOISE_ORM"

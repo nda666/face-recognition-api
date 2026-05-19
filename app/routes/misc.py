@@ -2,7 +2,7 @@ import numpy as np
 from fastapi import APIRouter
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
-from core.store import EmbeddingStore
+from app.lib.store import EmbeddingStore
 
 router = APIRouter()
 store: EmbeddingStore = None

@@ -4,7 +4,7 @@ Tidak ada dependency ke Flask atau wx di sini.
 """
 from deepface import DeepFace
 import random
-from core.store import EmbeddingStore
+from app.lib.store import EmbeddingStore
 import numpy as np
 from typing import Generator, Callable
 

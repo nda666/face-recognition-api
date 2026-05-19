@@ -10,5 +10,6 @@ wheels/
 .venv
 .history
 storage/embeddings.db
+storage/url_cache
 samples/faces
 .env

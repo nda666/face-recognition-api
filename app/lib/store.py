@@ -54,16 +54,17 @@ class EmbeddingStore:
             con.close()
 
     def _init_db(self):
-        with self._conn() as con:
-            con.execute("""
-                CREATE TABLE IF NOT EXISTS embeddings (
-                    id        INTEGER PRIMARY KEY AUTOINCREMENT,
-                    name      TEXT    NOT NULL,
-                    embedding BLOB    NOT NULL,
-                    created_at TEXT   NOT NULL DEFAULT (datetime('now','localtime'))
-                )
-            """)
-            con.execute("CREATE INDEX IF NOT EXISTS idx_name ON embeddings(name)")
+        print("init db")
+        # with self._conn() as con:
+        #     con.execute("""
+        #         CREATE TABLE IF NOT EXISTS embeddings (
+        #             id        INTEGER PRIMARY KEY AUTOINCREMENT,
+        #             name      TEXT    NOT NULL,
+        #             embedding BLOB    NOT NULL,
+        #             created_at TEXT   NOT NULL DEFAULT (datetime('now','localtime'))
+        #         )
+        #     """)
+        #     con.execute("CREATE INDEX IF NOT EXISTS idx_name ON embeddings(name)")
 
     # ------------------------------------------------------------------ #
     #  Public API                                                          #
