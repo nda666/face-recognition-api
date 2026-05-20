@@ -23,7 +23,7 @@ with SuppressStderr():
         # preload model
         DeepFace.build_model("ArcFace")
         DeepFace.build_model("opencv", "face_detector")
-        DeepFace.build_model("Fasnet", "spoofing")
+        # DeepFace.build_model("Fasnet", "spoofing")
 
         # DeepFace.modeling.cached_models.clear();
         logger.info("DeepFace ready")

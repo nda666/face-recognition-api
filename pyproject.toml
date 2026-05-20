@@ -4,8 +4,8 @@ version = "0.1.0"
 requires-python = ">=3.12"
 
 dependencies = [
-    "torch",
-    "torchvision",
+    # "torch",
+    # "torchvision",
     "deepface>=0.0.99",
     "python-dotenv>=0.9.9",
     "fastapi>=0.136.1",
