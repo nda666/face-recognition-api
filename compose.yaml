@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   face-recognition-api:
-    image: face-recognition-api
+    build: .
     container_name: face-recognition-api
     ports:
       - "6969:8000"
