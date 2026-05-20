@@ -63,14 +63,14 @@ async def compare(
     if "application/json" in content_type:
         body = await request.json()
 
-        tolerance = body.get("tolerance", 0.45)
+        tolerance = body.get("tolerance")
         image1_url = body.get("image1_url")
         image2_url = body.get("image2_url")
 
     else:
         form = await request.form()
 
-        tolerance = float(form.get("tolerance", 0.45))
+        tolerance =  form.get("tolerance")
         image1_url = form.get("image1_url")
         image2_url = form.get("image2_url")
 

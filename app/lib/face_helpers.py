@@ -1,4 +1,5 @@
 import json
+import base64
 import numpy as np
 import cv2
 import httpx
@@ -7,9 +8,14 @@ from fastapi.responses import JSONResponse
 from app.lib.store import _normalize
 from app.lib.url_cache import url_cache
 from app.lib.recognition import extract_face_embedding_from_image
+import uuid
+from pathlib import Path
+
 
 ALLOWED_MIME = {"image/jpeg", "image/png", "image/webp"}
 
+ANNOTATED_DIR = Path("storage/annotated")
+ANNOTATED_DIR.mkdir(parents=True, exist_ok=True)
 
 
 # ── Image readers ─────────────────────────────────────────────────────────────
@@ -101,10 +107,49 @@ async def extract_from_source(
     return img, embedding, None
 
 
+
+def _annotate_image(
+    img: np.ndarray,
+    facial_area: dict,
+    matched: bool,
+    max_size: int = 640,
+) -> str:
+    """Draw bounding box + eye dots, resize to max_size (longest side), save to file, return URL path."""
+    annotated = img.copy()
+
+    x, y, w, h = facial_area["x"], facial_area["y"], facial_area["w"], facial_area["h"]
+    color = (0, 255, 0) if matched else (0, 0, 255)
+
+    cv2.rectangle(annotated, (x, y), (x + w, y + h), color, 2)
+
+    for lm_key in ("left_eye", "right_eye", "nose", "mouth_left", "mouth_right"):
+        pt = facial_area.get(lm_key)
+        if pt and len(pt) == 2:
+            cv2.circle(annotated, (int(pt[0]), int(pt[1])), 3, color, 2)
+
+    # crop sesuai bounding box (sebelum resize)
+    cropped = annotated[y:y+h, x:x+w]
+
+    # resize crop
+    ch, cw = cropped.shape[:2]
+    if max(ch, cw) > max_size:
+        scale = max_size / max(ch, cw)
+        cropped = cv2.resize(
+            cropped,
+            (int(cw * scale), int(ch * scale)),
+            interpolation=cv2.INTER_AREA,
+        )
+
+    filename = f"{uuid.uuid4().hex}.jpg"
+    filepath = ANNOTATED_DIR / filename
+    cv2.imwrite(str(filepath), cropped, [cv2.IMWRITE_JPEG_QUALITY, 85])
+
+    return f"/storage/annotated/{filename}"
 # ── Comparison ────────────────────────────────────────────────────────────────
 
 def deepface_compare(img1: np.ndarray, img2: np.ndarray, tolerance: float = 0.8) -> dict:
     from deepface import DeepFace
+
     try:
         result = DeepFace.verify(
             img1_path=img1,
@@ -115,15 +160,16 @@ def deepface_compare(img1: np.ndarray, img2: np.ndarray, tolerance: float = 0.8)
             enforce_detection=True,
             threshold=tolerance,
         )
-        distance  = round(result["distance"], 4)
-        matched   = result["verified"]
-        threshold = result["threshold"]
-        confidence = result["confidence"]
-        return {
-            "matched":    matched,
-            "distance":   distance,
-            "confidence": confidence,
-            "threshold":  threshold,
-        }
+        result["matched"] = result["verified"]
+
+        # facial_areas = result.get("facial_areas", {})
+        # fa1 = facial_areas.get("img1")
+        # fa2 = facial_areas.get("img2")
+
+        # result["annotated_image1"] = _annotate_image(img1, fa1, result["matched"]) if fa1 else None
+        # result["annotated_image2"] = _annotate_image(img2, fa2, result["matched"]) if fa2 else None
+
+        return result
+
     except ValueError as e:
         raise HTTPException(400, f"DeepFace error: {e}")
