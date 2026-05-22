@@ -87,24 +87,15 @@ async def extract(upload: UploadFile, spoof_check: bool = True):
 async def extract_from_source(
     file: UploadFile | None,
     url: str | None,
-    spoof_check: bool = True,
     label: str = "image",
 ):
     """Shortcut: file atau URL → (img, embedding, err)."""
     try:
         img = await read_image_source(file, url)
     except HTTPException as e:
-        return None, None, JSONResponse({"ok": False, "msg": f"[{label}] {e.detail}"}, status_code=e.status_code)
+        return None, JSONResponse({"ok": False, "msg": f"[{label}] {e.detail}"}, status_code=e.status_code)
 
-    img, embedding, err = run_extraction(img, spoof_check)
-    if err:
-        try:
-            data = json.loads(err.body)
-        except Exception:
-            data = {"msg": str(err.body)}
-        return None, None, JSONResponse({"ok": False, "msg": f"[{label}] {data.get('msg', '')}"}, status_code=400)
-
-    return img, embedding, None
+    return img, None
 
 
 

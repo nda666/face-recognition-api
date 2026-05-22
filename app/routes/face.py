@@ -74,20 +74,18 @@ async def compare(
         image1_url = form.get("image1_url")
         image2_url = form.get("image2_url")
 
-    img1, _, err1 = await extract_from_source(
+    img1, err1 = await extract_from_source(
         image1,
         image1_url,
-        False,
         label="image1"
     )
 
     if err1:
         return err1
 
-    img2, _, err2 = await extract_from_source(
+    img2,err2 = await extract_from_source(
         image2,
         image2_url,
-        False,
         label="image2"
     )
 
