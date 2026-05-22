@@ -14,7 +14,12 @@ services:
     restart: unless-stopped
     networks:
       - web-network
-
+    deploy:
+      resources:
+        limits:
+          cpus: '4.0'      # Maksimal menggunakan 2 Core CPU
+          memory: 4096M    # Maksimal menggunakan 4 GB RAM
+  
 networks:
   web-network:
     name: web-network
